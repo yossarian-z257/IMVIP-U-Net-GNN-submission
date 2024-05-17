@@ -1,0 +1,2047 @@
+Loading ./modelG
+Loaded ./modelG
+Test sample 0
+    pressure:  abs. difference, ratio: 46.326878 , 0.267677 
+    velocity:  abs. difference, ratio: 154.607422 , 0.018888 
+    aggregate: abs. difference, ratio: 200.934311 , 0.024039 
+Test sample 1
+    pressure:  abs. difference, ratio: 20.744787 , 0.177330 
+    velocity:  abs. difference, ratio: 159.591797 , 0.018962 
+    aggregate: abs. difference, ratio: 180.336578 , 0.021133 
+Test sample 2
+    pressure:  abs. difference, ratio: 42.947891 , 0.098778 
+    velocity:  abs. difference, ratio: 194.184082 , 0.021663 
+    aggregate: abs. difference, ratio: 237.131958 , 0.025230 
+Test sample 3
+    pressure:  abs. difference, ratio: 51.200478 , 0.354446 
+    velocity:  abs. difference, ratio: 202.860352 , 0.024955 
+    aggregate: abs. difference, ratio: 254.060837 , 0.030708 
+Test sample 4
+    pressure:  abs. difference, ratio: 44.249657 , 0.138738 
+    velocity:  abs. difference, ratio: 209.838135 , 0.024507 
+    aggregate: abs. difference, ratio: 254.087784 , 0.028609 
+Test sample 5
+    pressure:  abs. difference, ratio: 43.576542 , 0.314530 
+    velocity:  abs. difference, ratio: 175.573883 , 0.021597 
+    aggregate: abs. difference, ratio: 219.150421 , 0.026506 
+Test sample 6
+    pressure:  abs. difference, ratio: 32.002380 , 0.081048 
+    velocity:  abs. difference, ratio: 187.088226 , 0.021170 
+    aggregate: abs. difference, ratio: 219.090622 , 0.023731 
+Test sample 7
+    pressure:  abs. difference, ratio: 274.431854 , 0.389924 
+    velocity:  abs. difference, ratio: 1144.274048 , 0.124207 
+    aggregate: abs. difference, ratio: 1418.705933 , 0.143066 
+Test sample 8
+    pressure:  abs. difference, ratio: 116.259911 , 0.744573 
+    velocity:  abs. difference, ratio: 436.520996 , 0.050355 
+    aggregate: abs. difference, ratio: 552.780884 , 0.062638 
+Test sample 9
+    pressure:  abs. difference, ratio: 50.294205 , 0.133201 
+    velocity:  abs. difference, ratio: 274.096069 , 0.031006 
+    aggregate: abs. difference, ratio: 324.390259 , 0.035192 
+Test sample 10
+    pressure:  abs. difference, ratio: 71.621719 , 0.201768 
+    velocity:  abs. difference, ratio: 557.279053 , 0.060686 
+    aggregate: abs. difference, ratio: 628.900818 , 0.065937 
+Test sample 11
+    pressure:  abs. difference, ratio: 93.132858 , 0.136831 
+    velocity:  abs. difference, ratio: 429.368591 , 0.046244 
+    aggregate: abs. difference, ratio: 522.501465 , 0.052431 
+Test sample 12
+    pressure:  abs. difference, ratio: 50.307182 , 0.107593 
+    velocity:  abs. difference, ratio: 341.892456 , 0.036996 
+    aggregate: abs. difference, ratio: 392.199646 , 0.040396 
+Test sample 13
+    pressure:  abs. difference, ratio: 16.516296 , 0.127091 
+    velocity:  abs. difference, ratio: 101.940216 , 0.012298 
+    aggregate: abs. difference, ratio: 118.456512 , 0.014070 
+Test sample 14
+    pressure:  abs. difference, ratio: 22.010193 , 0.208010 
+    velocity:  abs. difference, ratio: 96.778122 , 0.011589 
+    aggregate: abs. difference, ratio: 118.788315 , 0.014046 
+Test sample 15
+    pressure:  abs. difference, ratio: 300.909851 , 0.350785 
+    velocity:  abs. difference, ratio: 1019.864746 , 0.110744 
+    aggregate: abs. difference, ratio: 1320.774658 , 0.131198 
+Test sample 16
+    pressure:  abs. difference, ratio: 19.546791 , 0.211148 
+    velocity:  abs. difference, ratio: 92.255730 , 0.011373 
+    aggregate: abs. difference, ratio: 111.802521 , 0.013627 
+Test sample 17
+    pressure:  abs. difference, ratio: 29.762348 , 0.091857 
+    velocity:  abs. difference, ratio: 133.357025 , 0.015226 
+    aggregate: abs. difference, ratio: 163.119385 , 0.017960 
+Test sample 18
+    pressure:  abs. difference, ratio: 25.283340 , 0.103517 
+    velocity:  abs. difference, ratio: 94.275558 , 0.011064 
+    aggregate: abs. difference, ratio: 119.558914 , 0.013641 
+Test sample 19
+    pressure:  abs. difference, ratio: 17.735533 , 0.161621 
+    velocity:  abs. difference, ratio: 84.517136 , 0.010332 
+    aggregate: abs. difference, ratio: 102.252670 , 0.012334 
+Test sample 20
+    pressure:  abs. difference, ratio: 108.611259 , 0.196603 
+    velocity:  abs. difference, ratio: 525.408813 , 0.056531 
+    aggregate: abs. difference, ratio: 634.020081 , 0.064390 
+Test sample 21
+    pressure:  abs. difference, ratio: 30.430691 , 0.127850 
+    velocity:  abs. difference, ratio: 105.311829 , 0.012200 
+    aggregate: abs. difference, ratio: 135.742523 , 0.015304 
+Test sample 22
+    pressure:  abs. difference, ratio: 38.420464 , 0.119756 
+    velocity:  abs. difference, ratio: 145.348572 , 0.016360 
+    aggregate: abs. difference, ratio: 183.769012 , 0.019963 
+Test sample 23
+    pressure:  abs. difference, ratio: 81.927086 , 0.293399 
+    velocity:  abs. difference, ratio: 360.399292 , 0.041178 
+    aggregate: abs. difference, ratio: 442.326355 , 0.048976 
+Test sample 24
+    pressure:  abs. difference, ratio: 24.251635 , 0.163979 
+    velocity:  abs. difference, ratio: 106.243401 , 0.013011 
+    aggregate: abs. difference, ratio: 130.495041 , 0.015697 
+Test sample 25
+    pressure:  abs. difference, ratio: 303.882629 , 0.416889 
+    velocity:  abs. difference, ratio: 932.821899 , 0.102471 
+    aggregate: abs. difference, ratio: 1236.704590 , 0.125781 
+Test sample 26
+    pressure:  abs. difference, ratio: 21.058933 , 0.160732 
+    velocity:  abs. difference, ratio: 99.773087 , 0.012265 
+    aggregate: abs. difference, ratio: 120.832016 , 0.014618 
+Test sample 27
+    pressure:  abs. difference, ratio: 58.594154 , 0.257635 
+    velocity:  abs. difference, ratio: 223.726608 , 0.025681 
+    aggregate: abs. difference, ratio: 282.320770 , 0.031582 
+Test sample 28
+    pressure:  abs. difference, ratio: 126.060448 , 1.284643 
+    velocity:  abs. difference, ratio: 484.573090 , 0.057203 
+    aggregate: abs. difference, ratio: 610.633545 , 0.071259 
+Test sample 29
+    pressure:  abs. difference, ratio: 148.118698 , 0.395518 
+    velocity:  abs. difference, ratio: 1208.141357 , 0.131650 
+    aggregate: abs. difference, ratio: 1356.260254 , 0.141996 
+Test sample 30
+    pressure:  abs. difference, ratio: 131.133118 , 0.445013 
+    velocity:  abs. difference, ratio: 775.360474 , 0.087543 
+    aggregate: abs. difference, ratio: 906.493652 , 0.099053 
+Test sample 31
+    pressure:  abs. difference, ratio: 25.683804 , 0.087648 
+    velocity:  abs. difference, ratio: 140.978104 , 0.016037 
+    aggregate: abs. difference, ratio: 166.661911 , 0.018347 
+Test sample 32
+    pressure:  abs. difference, ratio: 397.002258 , 0.462940 
+    velocity:  abs. difference, ratio: 1143.271484 , 0.125626 
+    aggregate: abs. difference, ratio: 1540.273804 , 0.154674 
+Test sample 33
+    pressure:  abs. difference, ratio: 27.904051 , 0.327286 
+    velocity:  abs. difference, ratio: 131.006348 , 0.016013 
+    aggregate: abs. difference, ratio: 158.910400 , 0.019224 
+Test sample 34
+    pressure:  abs. difference, ratio: 28.843729 , 0.274168 
+    velocity:  abs. difference, ratio: 130.425446 , 0.015655 
+    aggregate: abs. difference, ratio: 159.269180 , 0.018879 
+Test sample 35
+    pressure:  abs. difference, ratio: 27.343204 , 0.229483 
+    velocity:  abs. difference, ratio: 136.167831 , 0.015939 
+    aggregate: abs. difference, ratio: 163.511047 , 0.018876 
+Test sample 36
+    pressure:  abs. difference, ratio: 42.006721 , 0.188006 
+    velocity:  abs. difference, ratio: 236.978729 , 0.026420 
+    aggregate: abs. difference, ratio: 278.985474 , 0.030347 
+Test sample 37
+    pressure:  abs. difference, ratio: 45.102013 , 0.129224 
+    velocity:  abs. difference, ratio: 204.706024 , 0.023858 
+    aggregate: abs. difference, ratio: 249.808060 , 0.027977 
+Test sample 38
+    pressure:  abs. difference, ratio: 24.623234 , 0.227195 
+    velocity:  abs. difference, ratio: 127.119339 , 0.015243 
+    aggregate: abs. difference, ratio: 151.742569 , 0.017962 
+Test sample 39
+    pressure:  abs. difference, ratio: 25.920359 , 0.061701 
+    velocity:  abs. difference, ratio: 159.880173 , 0.017775 
+    aggregate: abs. difference, ratio: 185.800537 , 0.019735 
+Test sample 40
+    pressure:  abs. difference, ratio: 20.358253 , 0.304479 
+    velocity:  abs. difference, ratio: 122.336868 , 0.014866 
+    aggregate: abs. difference, ratio: 142.695129 , 0.017201 
+Test sample 41
+    pressure:  abs. difference, ratio: 55.012676 , 0.519093 
+    velocity:  abs. difference, ratio: 289.452179 , 0.034040 
+    aggregate: abs. difference, ratio: 344.464874 , 0.040011 
+Test sample 42
+    pressure:  abs. difference, ratio: 55.103783 , 0.129523 
+    velocity:  abs. difference, ratio: 259.985168 , 0.028630 
+    aggregate: abs. difference, ratio: 315.088959 , 0.033145 
+Test sample 43
+    pressure:  abs. difference, ratio: 252.203949 , 0.392014 
+    velocity:  abs. difference, ratio: 951.916138 , 0.103821 
+    aggregate: abs. difference, ratio: 1204.120117 , 0.122717 
+Test sample 44
+    pressure:  abs. difference, ratio: 24.445169 , 0.088979 
+    velocity:  abs. difference, ratio: 144.428375 , 0.017019 
+    aggregate: abs. difference, ratio: 168.873550 , 0.019276 
+Test sample 45
+    pressure:  abs. difference, ratio: 48.674438 , 0.092813 
+    velocity:  abs. difference, ratio: 369.273071 , 0.040390 
+    aggregate: abs. difference, ratio: 417.947510 , 0.043234 
+Test sample 46
+    pressure:  abs. difference, ratio: 42.328835 , 0.085536 
+    velocity:  abs. difference, ratio: 309.999878 , 0.034006 
+    aggregate: abs. difference, ratio: 352.328735 , 0.036659 
+Test sample 47
+    pressure:  abs. difference, ratio: 15.215928 , 0.079996 
+    velocity:  abs. difference, ratio: 89.971390 , 0.010827 
+    aggregate: abs. difference, ratio: 105.187317 , 0.012374 
+Test sample 48
+    pressure:  abs. difference, ratio: 428.224243 , 0.485073 
+    velocity:  abs. difference, ratio: 1203.542847 , 0.131393 
+    aggregate: abs. difference, ratio: 1631.767090 , 0.162483 
+Test sample 49
+    pressure:  abs. difference, ratio: 59.294392 , 0.923928 
+    velocity:  abs. difference, ratio: 220.368011 , 0.026246 
+    aggregate: abs. difference, ratio: 279.662384 , 0.033055 
+Test sample 50
+    pressure:  abs. difference, ratio: 36.056828 , 0.067637 
+    velocity:  abs. difference, ratio: 277.234283 , 0.030427 
+    aggregate: abs. difference, ratio: 313.291107 , 0.032484 
+Test sample 51
+    pressure:  abs. difference, ratio: 121.245773 , 0.265256 
+    velocity:  abs. difference, ratio: 436.402100 , 0.049073 
+    aggregate: abs. difference, ratio: 557.647888 , 0.059641 
+Test sample 52
+    pressure:  abs. difference, ratio: 316.931213 , 0.400877 
+    velocity:  abs. difference, ratio: 1256.878906 , 0.130024 
+    aggregate: abs. difference, ratio: 1573.810059 , 0.150502 
+Test sample 53
+    pressure:  abs. difference, ratio: 67.677902 , 0.234321 
+    velocity:  abs. difference, ratio: 279.902283 , 0.033322 
+    aggregate: abs. difference, ratio: 347.580139 , 0.040004 
+Test sample 54
+    pressure:  abs. difference, ratio: 173.729645 , 0.287600 
+    velocity:  abs. difference, ratio: 1073.297607 , 0.113826 
+    aggregate: abs. difference, ratio: 1247.027222 , 0.124289 
+Test sample 55
+    pressure:  abs. difference, ratio: 34.926590 , 0.066399 
+    velocity:  abs. difference, ratio: 229.352020 , 0.025100 
+    aggregate: abs. difference, ratio: 264.278595 , 0.027348 
+Test sample 56
+    pressure:  abs. difference, ratio: 70.448181 , 0.277952 
+    velocity:  abs. difference, ratio: 270.392456 , 0.032702 
+    aggregate: abs. difference, ratio: 340.840637 , 0.039997 
+Test sample 57
+    pressure:  abs. difference, ratio: 190.532791 , 0.250518 
+    velocity:  abs. difference, ratio: 607.686218 , 0.065806 
+    aggregate: abs. difference, ratio: 798.218994 , 0.079862 
+Test sample 58
+    pressure:  abs. difference, ratio: 57.529068 , 0.141158 
+    velocity:  abs. difference, ratio: 221.233002 , 0.025553 
+    aggregate: abs. difference, ratio: 278.762054 , 0.030750 
+Test sample 59
+    pressure:  abs. difference, ratio: 33.618294 , 0.066075 
+    velocity:  abs. difference, ratio: 165.113297 , 0.018335 
+    aggregate: abs. difference, ratio: 198.731598 , 0.020888 
+Test sample 60
+    pressure:  abs. difference, ratio: 190.229889 , 0.204731 
+    velocity:  abs. difference, ratio: 683.760620 , 0.072344 
+    aggregate: abs. difference, ratio: 873.990479 , 0.084194 
+Test sample 61
+    pressure:  abs. difference, ratio: 103.644760 , 0.572568 
+    velocity:  abs. difference, ratio: 334.187408 , 0.038936 
+    aggregate: abs. difference, ratio: 437.832153 , 0.049958 
+Test sample 62
+    pressure:  abs. difference, ratio: 35.498974 , 0.073983 
+    velocity:  abs. difference, ratio: 256.607330 , 0.028204 
+    aggregate: abs. difference, ratio: 292.106293 , 0.030497 
+Test sample 63
+    pressure:  abs. difference, ratio: 25.055992 , 0.058162 
+    velocity:  abs. difference, ratio: 137.149582 , 0.015293 
+    aggregate: abs. difference, ratio: 162.205582 , 0.017258 
+Test sample 64
+    pressure:  abs. difference, ratio: 80.750626 , 0.282223 
+    velocity:  abs. difference, ratio: 294.901703 , 0.033221 
+    aggregate: abs. difference, ratio: 375.652313 , 0.040997 
+Test sample 65
+    pressure:  abs. difference, ratio: 41.937042 , 0.262492 
+    velocity:  abs. difference, ratio: 232.144577 , 0.026530 
+    aggregate: abs. difference, ratio: 274.081635 , 0.030761 
+Test sample 66
+    pressure:  abs. difference, ratio: 33.624733 , 0.078766 
+    velocity:  abs. difference, ratio: 186.197189 , 0.020964 
+    aggregate: abs. difference, ratio: 219.821915 , 0.023615 
+Test sample 67
+    pressure:  abs. difference, ratio: 21.282455 , 0.094484 
+    velocity:  abs. difference, ratio: 95.264992 , 0.011489 
+    aggregate: abs. difference, ratio: 116.547447 , 0.013683 
+Test sample 68
+    pressure:  abs. difference, ratio: 78.908600 , 0.199757 
+    velocity:  abs. difference, ratio: 267.845001 , 0.030307 
+    aggregate: abs. difference, ratio: 346.753601 , 0.037557 
+Test sample 69
+    pressure:  abs. difference, ratio: 19.796370 , 0.139663 
+    velocity:  abs. difference, ratio: 108.168945 , 0.012978 
+    aggregate: abs. difference, ratio: 127.965324 , 0.015097 
+Test sample 70
+    pressure:  abs. difference, ratio: 249.557739 , 0.376938 
+    velocity:  abs. difference, ratio: 772.475281 , 0.084584 
+    aggregate: abs. difference, ratio: 1022.033020 , 0.104345 
+Test sample 71
+    pressure:  abs. difference, ratio: 15.183226 , 0.083100 
+    velocity:  abs. difference, ratio: 115.072937 , 0.013837 
+    aggregate: abs. difference, ratio: 130.256165 , 0.015326 
+Test sample 72
+    pressure:  abs. difference, ratio: 134.806305 , 0.448565 
+    velocity:  abs. difference, ratio: 627.839478 , 0.069189 
+    aggregate: abs. difference, ratio: 762.645752 , 0.081351 
+Test sample 73
+    pressure:  abs. difference, ratio: 38.306679 , 0.077651 
+    velocity:  abs. difference, ratio: 223.337402 , 0.024889 
+    aggregate: abs. difference, ratio: 261.644073 , 0.027638 
+Test sample 74
+    pressure:  abs. difference, ratio: 64.351845 , 0.121326 
+    velocity:  abs. difference, ratio: 416.449371 , 0.045322 
+    aggregate: abs. difference, ratio: 480.801208 , 0.049470 
+Test sample 75
+    pressure:  abs. difference, ratio: 37.715813 , 0.076715 
+    velocity:  abs. difference, ratio: 202.473114 , 0.022626 
+    aggregate: abs. difference, ratio: 240.188904 , 0.025443 
+Test sample 76
+    pressure:  abs. difference, ratio: 98.433960 , 0.300041 
+    velocity:  abs. difference, ratio: 352.004700 , 0.041686 
+    aggregate: abs. difference, ratio: 450.438660 , 0.051349 
+Test sample 77
+    pressure:  abs. difference, ratio: 70.107994 , 0.174968 
+    velocity:  abs. difference, ratio: 860.061401 , 0.093673 
+    aggregate: abs. difference, ratio: 930.169434 , 0.097072 
+Test sample 78
+    pressure:  abs. difference, ratio: 33.713547 , 0.414485 
+    velocity:  abs. difference, ratio: 183.638855 , 0.022715 
+    aggregate: abs. difference, ratio: 217.352402 , 0.026617 
+Test sample 79
+    pressure:  abs. difference, ratio: 21.293480 , 0.131282 
+    velocity:  abs. difference, ratio: 108.843399 , 0.013125 
+    aggregate: abs. difference, ratio: 130.136871 , 0.015391 
+Test sample 80
+    pressure:  abs. difference, ratio: 11.746232 , 0.082509 
+    velocity:  abs. difference, ratio: 61.122543 , 0.007429 
+    aggregate: abs. difference, ratio: 72.868774 , 0.008706 
+Test sample 81
+    pressure:  abs. difference, ratio: 153.633926 , 0.244671 
+    velocity:  abs. difference, ratio: 539.928101 , 0.059449 
+    aggregate: abs. difference, ratio: 693.562012 , 0.071427 
+Test sample 82
+    pressure:  abs. difference, ratio: 28.190802 , 0.315722 
+    velocity:  abs. difference, ratio: 130.714737 , 0.016147 
+    aggregate: abs. difference, ratio: 158.905533 , 0.019415 
+Test sample 83
+    pressure:  abs. difference, ratio: 34.019489 , 0.090142 
+    velocity:  abs. difference, ratio: 156.385681 , 0.017413 
+    aggregate: abs. difference, ratio: 190.405167 , 0.020346 
+Test sample 84
+    pressure:  abs. difference, ratio: 85.465569 , 0.245237 
+    velocity:  abs. difference, ratio: 312.086975 , 0.035378 
+    aggregate: abs. difference, ratio: 397.552521 , 0.043353 
+Test sample 85
+    pressure:  abs. difference, ratio: 17.850409 , 0.088703 
+    velocity:  abs. difference, ratio: 98.961227 , 0.011750 
+    aggregate: abs. difference, ratio: 116.811638 , 0.013546 
+Test sample 86
+    pressure:  abs. difference, ratio: 145.962524 , 0.306936 
+    velocity:  abs. difference, ratio: 458.384125 , 0.051358 
+    aggregate: abs. difference, ratio: 604.346680 , 0.064287 
+Test sample 87
+    pressure:  abs. difference, ratio: 67.943565 , 1.131828 
+    velocity:  abs. difference, ratio: 253.440567 , 0.030739 
+    aggregate: abs. difference, ratio: 321.384125 , 0.038698 
+Test sample 88
+    pressure:  abs. difference, ratio: 16.448957 , 0.081700 
+    velocity:  abs. difference, ratio: 106.220932 , 0.012622 
+    aggregate: abs. difference, ratio: 122.669891 , 0.014236 
+Test sample 89
+    pressure:  abs. difference, ratio: 92.018967 , 0.193112 
+    velocity:  abs. difference, ratio: 418.224243 , 0.045995 
+    aggregate: abs. difference, ratio: 510.243195 , 0.053320 
+Test sample 90
+    pressure:  abs. difference, ratio: 511.236755 , 0.553930 
+    velocity:  abs. difference, ratio: 1414.098389 , 0.153289 
+    aggregate: abs. difference, ratio: 1925.335205 , 0.189726 
+Test sample 91
+    pressure:  abs. difference, ratio: 44.887428 , 0.191503 
+    velocity:  abs. difference, ratio: 258.610992 , 0.029593 
+    aggregate: abs. difference, ratio: 303.498413 , 0.033822 
+Test sample 92
+    pressure:  abs. difference, ratio: 258.107239 , 0.322871 
+    velocity:  abs. difference, ratio: 834.417480 , 0.090033 
+    aggregate: abs. difference, ratio: 1092.524658 , 0.108522 
+Test sample 93
+    pressure:  abs. difference, ratio: 28.833796 , 0.085648 
+    velocity:  abs. difference, ratio: 142.385376 , 0.016543 
+    aggregate: abs. difference, ratio: 171.219162 , 0.019144 
+Test sample 94
+    pressure:  abs. difference, ratio: 103.337418 , 0.184083 
+    velocity:  abs. difference, ratio: 437.041992 , 0.047925 
+    aggregate: abs. difference, ratio: 540.379395 , 0.055820 
+Test sample 95
+    pressure:  abs. difference, ratio: 68.863289 , 0.139025 
+    velocity:  abs. difference, ratio: 353.908508 , 0.038904 
+    aggregate: abs. difference, ratio: 422.771820 , 0.044074 
+Test sample 96
+    pressure:  abs. difference, ratio: 24.093863 , 0.200032 
+    velocity:  abs. difference, ratio: 132.636658 , 0.015999 
+    aggregate: abs. difference, ratio: 156.730515 , 0.018635 
+Test sample 97
+    pressure:  abs. difference, ratio: 19.255581 , 0.066846 
+    velocity:  abs. difference, ratio: 124.982414 , 0.014160 
+    aggregate: abs. difference, ratio: 144.238007 , 0.015825 
+Test sample 98
+    pressure:  abs. difference, ratio: 469.600037 , 0.509339 
+    velocity:  abs. difference, ratio: 1420.398926 , 0.153854 
+    aggregate: abs. difference, ratio: 1889.999023 , 0.186132 
+Test sample 99
+    pressure:  abs. difference, ratio: 29.909084 , 0.372161 
+    velocity:  abs. difference, ratio: 162.130554 , 0.019968 
+    aggregate: abs. difference, ratio: 192.039627 , 0.023420 
+
+
+Loss percentage (p, v, combined): 24.987259 %    4.068386 %    4.777122 % 
+L1 error: 0.009220
+Denormalized error: 0.017050
+
+
+Loading ./modelG
+Loading ./modelG
+Loaded ./modelG
+Test sample 0
+    pressure:  abs. difference, ratio: 52.046707 , 0.300726 
+    velocity:  abs. difference, ratio: 317.807251 , 0.038825 
+    aggregate: abs. difference, ratio: 369.853943 , 0.044248 
+Test sample 1
+    pressure:  abs. difference, ratio: 48.593567 , 0.415387 
+    velocity:  abs. difference, ratio: 238.615601 , 0.028351 
+    aggregate: abs. difference, ratio: 287.209167 , 0.033657 
+Test sample 2
+    pressure:  abs. difference, ratio: 25.738522 , 0.059198 
+    velocity:  abs. difference, ratio: 95.847633 , 0.010693 
+    aggregate: abs. difference, ratio: 121.586151 , 0.012936 
+Test sample 3
+    pressure:  abs. difference, ratio: 28.117245 , 0.194647 
+    velocity:  abs. difference, ratio: 147.907761 , 0.018195 
+    aggregate: abs. difference, ratio: 176.024994 , 0.021276 
+Test sample 4
+    pressure:  abs. difference, ratio: 58.800400 , 0.184360 
+    velocity:  abs. difference, ratio: 330.830383 , 0.038637 
+    aggregate: abs. difference, ratio: 389.630768 , 0.043870 
+Test sample 5
+    pressure:  abs. difference, ratio: 23.244698 , 0.167777 
+    velocity:  abs. difference, ratio: 113.845230 , 0.014004 
+    aggregate: abs. difference, ratio: 137.089920 , 0.016581 
+Test sample 6
+    pressure:  abs. difference, ratio: 62.906960 , 0.159315 
+    velocity:  abs. difference, ratio: 440.513336 , 0.049847 
+    aggregate: abs. difference, ratio: 503.420319 , 0.054529 
+Test sample 7
+    pressure:  abs. difference, ratio: 352.562683 , 0.500935 
+    velocity:  abs. difference, ratio: 1152.164673 , 0.125064 
+    aggregate: abs. difference, ratio: 1504.727417 , 0.151741 
+Test sample 8
+    pressure:  abs. difference, ratio: 97.612549 , 0.625148 
+    velocity:  abs. difference, ratio: 505.660217 , 0.058330 
+    aggregate: abs. difference, ratio: 603.272766 , 0.068359 
+Test sample 9
+    pressure:  abs. difference, ratio: 48.675827 , 0.128915 
+    velocity:  abs. difference, ratio: 190.336777 , 0.021531 
+    aggregate: abs. difference, ratio: 239.012604 , 0.025930 
+Test sample 10
+    pressure:  abs. difference, ratio: 184.798065 , 0.520600 
+    velocity:  abs. difference, ratio: 653.870850 , 0.071205 
+    aggregate: abs. difference, ratio: 838.668884 , 0.087930 
+Test sample 11
+    pressure:  abs. difference, ratio: 108.647705 , 0.159625 
+    velocity:  abs. difference, ratio: 457.412537 , 0.049264 
+    aggregate: abs. difference, ratio: 566.060181 , 0.056802 
+Test sample 12
+    pressure:  abs. difference, ratio: 63.534180 , 0.135882 
+    velocity:  abs. difference, ratio: 372.065674 , 0.040262 
+    aggregate: abs. difference, ratio: 435.599854 , 0.044867 
+Test sample 13
+    pressure:  abs. difference, ratio: 34.854290 , 0.268200 
+    velocity:  abs. difference, ratio: 211.963318 , 0.025571 
+    aggregate: abs. difference, ratio: 246.817627 , 0.029317 
+Test sample 14
+    pressure:  abs. difference, ratio: 53.538475 , 0.505973 
+    velocity:  abs. difference, ratio: 341.492371 , 0.040892 
+    aggregate: abs. difference, ratio: 395.030823 , 0.046711 
+Test sample 15
+    pressure:  abs. difference, ratio: 397.077942 , 0.462893 
+    velocity:  abs. difference, ratio: 1506.566406 , 0.163593 
+    aggregate: abs. difference, ratio: 1903.644287 , 0.189096 
+Test sample 16
+    pressure:  abs. difference, ratio: 48.322083 , 0.521984 
+    velocity:  abs. difference, ratio: 250.403442 , 0.030869 
+    aggregate: abs. difference, ratio: 298.725525 , 0.036411 
+Test sample 17
+    pressure:  abs. difference, ratio: 55.648247 , 0.171750 
+    velocity:  abs. difference, ratio: 446.843964 , 0.051019 
+    aggregate: abs. difference, ratio: 502.492218 , 0.055326 
+Test sample 18
+    pressure:  abs. difference, ratio: 25.955753 , 0.106270 
+    velocity:  abs. difference, ratio: 157.616791 , 0.018498 
+    aggregate: abs. difference, ratio: 183.572540 , 0.020944 
+Test sample 19
+    pressure:  abs. difference, ratio: 42.032196 , 0.383033 
+    velocity:  abs. difference, ratio: 241.421661 , 0.029512 
+    aggregate: abs. difference, ratio: 283.453857 , 0.034192 
+Test sample 20
+    pressure:  abs. difference, ratio: 169.592285 , 0.306989 
+    velocity:  abs. difference, ratio: 840.447021 , 0.090427 
+    aggregate: abs. difference, ratio: 1010.039307 , 0.102578 
+Test sample 21
+    pressure:  abs. difference, ratio: 112.571083 , 0.472952 
+    velocity:  abs. difference, ratio: 652.258423 , 0.075564 
+    aggregate: abs. difference, ratio: 764.829468 , 0.086228 
+Test sample 22
+    pressure:  abs. difference, ratio: 36.045197 , 0.112352 
+    velocity:  abs. difference, ratio: 177.765350 , 0.020009 
+    aggregate: abs. difference, ratio: 213.810547 , 0.023227 
+Test sample 23
+    pressure:  abs. difference, ratio: 60.417717 , 0.216370 
+    velocity:  abs. difference, ratio: 302.642395 , 0.034579 
+    aggregate: abs. difference, ratio: 363.060120 , 0.040199 
+Test sample 24
+    pressure:  abs. difference, ratio: 24.958349 , 0.168757 
+    velocity:  abs. difference, ratio: 129.336090 , 0.015839 
+    aggregate: abs. difference, ratio: 154.294449 , 0.018560 
+Test sample 25
+    pressure:  abs. difference, ratio: 280.154053 , 0.384337 
+    velocity:  abs. difference, ratio: 863.898438 , 0.094900 
+    aggregate: abs. difference, ratio: 1144.052490 , 0.116358 
+Test sample 26
+    pressure:  abs. difference, ratio: 19.823786 , 0.151305 
+    velocity:  abs. difference, ratio: 110.408791 , 0.013572 
+    aggregate: abs. difference, ratio: 130.232574 , 0.015755 
+Test sample 27
+    pressure:  abs. difference, ratio: 63.765633 , 0.280373 
+    velocity:  abs. difference, ratio: 361.437195 , 0.041488 
+    aggregate: abs. difference, ratio: 425.202850 , 0.047565 
+Test sample 28
+    pressure:  abs. difference, ratio: 60.085075 , 0.612309 
+    velocity:  abs. difference, ratio: 361.140381 , 0.042632 
+    aggregate: abs. difference, ratio: 421.225464 , 0.049155 
+Test sample 29
+    pressure:  abs. difference, ratio: 183.458344 , 0.489884 
+    velocity:  abs. difference, ratio: 1671.694336 , 0.182164 
+    aggregate: abs. difference, ratio: 1855.152588 , 0.194229 
+Test sample 30
+    pressure:  abs. difference, ratio: 182.998688 , 0.621024 
+    velocity:  abs. difference, ratio: 1160.224487 , 0.130996 
+    aggregate: abs. difference, ratio: 1343.223145 , 0.146774 
+Test sample 31
+    pressure:  abs. difference, ratio: 20.381197 , 0.069553 
+    velocity:  abs. difference, ratio: 115.674599 , 0.013159 
+    aggregate: abs. difference, ratio: 136.055786 , 0.014978 
+Test sample 32
+    pressure:  abs. difference, ratio: 378.570068 , 0.441446 
+    velocity:  abs. difference, ratio: 1138.715088 , 0.125125 
+    aggregate: abs. difference, ratio: 1517.285034 , 0.152366 
+Test sample 33
+    pressure:  abs. difference, ratio: 19.411903 , 0.227682 
+    velocity:  abs. difference, ratio: 135.328735 , 0.016542 
+    aggregate: abs. difference, ratio: 154.740646 , 0.018719 
+Test sample 34
+    pressure:  abs. difference, ratio: 68.500488 , 0.651116 
+    velocity:  abs. difference, ratio: 396.170715 , 0.047553 
+    aggregate: abs. difference, ratio: 464.671204 , 0.055079 
+Test sample 35
+    pressure:  abs. difference, ratio: 56.124298 , 0.471033 
+    velocity:  abs. difference, ratio: 278.819672 , 0.032636 
+    aggregate: abs. difference, ratio: 334.943970 , 0.038666 
+Test sample 36
+    pressure:  abs. difference, ratio: 69.203384 , 0.309728 
+    velocity:  abs. difference, ratio: 443.418549 , 0.049434 
+    aggregate: abs. difference, ratio: 512.621948 , 0.055761 
+Test sample 37
+    pressure:  abs. difference, ratio: 40.987453 , 0.117435 
+    velocity:  abs. difference, ratio: 244.957962 , 0.028550 
+    aggregate: abs. difference, ratio: 285.945435 , 0.032024 
+Test sample 38
+    pressure:  abs. difference, ratio: 18.417633 , 0.169937 
+    velocity:  abs. difference, ratio: 98.794029 , 0.011846 
+    aggregate: abs. difference, ratio: 117.211662 , 0.013875 
+Test sample 39
+    pressure:  abs. difference, ratio: 58.487854 , 0.139224 
+    velocity:  abs. difference, ratio: 375.138947 , 0.041707 
+    aggregate: abs. difference, ratio: 433.626801 , 0.046058 
+Test sample 40
+    pressure:  abs. difference, ratio: 31.946960 , 0.477801 
+    velocity:  abs. difference, ratio: 214.253906 , 0.026036 
+    aggregate: abs. difference, ratio: 246.200867 , 0.029677 
+Test sample 41
+    pressure:  abs. difference, ratio: 76.844193 , 0.725093 
+    velocity:  abs. difference, ratio: 308.432404 , 0.036272 
+    aggregate: abs. difference, ratio: 385.276611 , 0.044752 
+Test sample 42
+    pressure:  abs. difference, ratio: 70.812653 , 0.166447 
+    velocity:  abs. difference, ratio: 401.356201 , 0.044198 
+    aggregate: abs. difference, ratio: 472.168854 , 0.049669 
+Test sample 43
+    pressure:  abs. difference, ratio: 262.554626 , 0.408103 
+    velocity:  abs. difference, ratio: 1037.538086 , 0.113159 
+    aggregate: abs. difference, ratio: 1300.092773 , 0.132498 
+Test sample 44
+    pressure:  abs. difference, ratio: 59.151566 , 0.215307 
+    velocity:  abs. difference, ratio: 535.028931 , 0.063047 
+    aggregate: abs. difference, ratio: 594.180481 , 0.067821 
+Test sample 45
+    pressure:  abs. difference, ratio: 135.626923 , 0.258614 
+    velocity:  abs. difference, ratio: 528.512512 , 0.057807 
+    aggregate: abs. difference, ratio: 664.139404 , 0.068700 
+Test sample 46
+    pressure:  abs. difference, ratio: 99.336121 , 0.200735 
+    velocity:  abs. difference, ratio: 427.591461 , 0.046905 
+    aggregate: abs. difference, ratio: 526.927612 , 0.054826 
+Test sample 47
+    pressure:  abs. difference, ratio: 38.134613 , 0.200489 
+    velocity:  abs. difference, ratio: 255.557831 , 0.030753 
+    aggregate: abs. difference, ratio: 293.692444 , 0.034551 
+Test sample 48
+    pressure:  abs. difference, ratio: 436.814453 , 0.494804 
+    velocity:  abs. difference, ratio: 1240.327515 , 0.135409 
+    aggregate: abs. difference, ratio: 1677.141968 , 0.167001 
+Test sample 49
+    pressure:  abs. difference, ratio: 92.631355 , 1.443386 
+    velocity:  abs. difference, ratio: 537.101685 , 0.063969 
+    aggregate: abs. difference, ratio: 629.733032 , 0.074433 
+Test sample 50
+    pressure:  abs. difference, ratio: 52.151497 , 0.097828 
+    velocity:  abs. difference, ratio: 381.650757 , 0.041887 
+    aggregate: abs. difference, ratio: 433.802246 , 0.044979 
+Test sample 51
+    pressure:  abs. difference, ratio: 123.758492 , 0.270753 
+    velocity:  abs. difference, ratio: 786.694031 , 0.088463 
+    aggregate: abs. difference, ratio: 910.452515 , 0.097374 
+Test sample 52
+    pressure:  abs. difference, ratio: 380.234192 , 0.480947 
+    velocity:  abs. difference, ratio: 1881.274414 , 0.194618 
+    aggregate: abs. difference, ratio: 2261.508545 , 0.216265 
+Test sample 53
+    pressure:  abs. difference, ratio: 48.534096 , 0.168039 
+    velocity:  abs. difference, ratio: 292.438171 , 0.034815 
+    aggregate: abs. difference, ratio: 340.972290 , 0.039243 
+Test sample 54
+    pressure:  abs. difference, ratio: 204.569458 , 0.338653 
+    velocity:  abs. difference, ratio: 1388.240723 , 0.147227 
+    aggregate: abs. difference, ratio: 1592.810303 , 0.158752 
+Test sample 55
+    pressure:  abs. difference, ratio: 28.838249 , 0.054824 
+    velocity:  abs. difference, ratio: 191.606567 , 0.020969 
+    aggregate: abs. difference, ratio: 220.444824 , 0.022812 
+Test sample 56
+    pressure:  abs. difference, ratio: 67.044739 , 0.264524 
+    velocity:  abs. difference, ratio: 355.363068 , 0.042979 
+    aggregate: abs. difference, ratio: 422.407806 , 0.049568 
+Test sample 57
+    pressure:  abs. difference, ratio: 205.223999 , 0.269835 
+    velocity:  abs. difference, ratio: 593.477539 , 0.064268 
+    aggregate: abs. difference, ratio: 798.701599 , 0.079910 
+Test sample 58
+    pressure:  abs. difference, ratio: 55.105629 , 0.135212 
+    velocity:  abs. difference, ratio: 398.725159 , 0.046053 
+    aggregate: abs. difference, ratio: 453.830780 , 0.050062 
+Test sample 59
+    pressure:  abs. difference, ratio: 45.705261 , 0.089831 
+    velocity:  abs. difference, ratio: 207.177261 , 0.023006 
+    aggregate: abs. difference, ratio: 252.882507 , 0.026579 
+Test sample 60
+    pressure:  abs. difference, ratio: 230.561234 , 0.248137 
+    velocity:  abs. difference, ratio: 640.655762 , 0.067783 
+    aggregate: abs. difference, ratio: 871.217041 , 0.083926 
+Test sample 61
+    pressure:  abs. difference, ratio: 122.222984 , 0.675200 
+    velocity:  abs. difference, ratio: 456.958954 , 0.053240 
+    aggregate: abs. difference, ratio: 579.181946 , 0.066087 
+Test sample 62
+    pressure:  abs. difference, ratio: 47.116745 , 0.098196 
+    velocity:  abs. difference, ratio: 292.011993 , 0.032095 
+    aggregate: abs. difference, ratio: 339.128723 , 0.035406 
+Test sample 63
+    pressure:  abs. difference, ratio: 45.326370 , 0.105215 
+    velocity:  abs. difference, ratio: 207.273560 , 0.023113 
+    aggregate: abs. difference, ratio: 252.599945 , 0.026876 
+Test sample 64
+    pressure:  abs. difference, ratio: 279.251343 , 0.975982 
+    velocity:  abs. difference, ratio: 1208.535889 , 0.136145 
+    aggregate: abs. difference, ratio: 1487.787231 , 0.162370 
+Test sample 65
+    pressure:  abs. difference, ratio: 151.971344 , 0.951218 
+    velocity:  abs. difference, ratio: 658.028503 , 0.075200 
+    aggregate: abs. difference, ratio: 809.999878 , 0.090908 
+Test sample 66
+    pressure:  abs. difference, ratio: 30.468931 , 0.071374 
+    velocity:  abs. difference, ratio: 188.657211 , 0.021241 
+    aggregate: abs. difference, ratio: 219.126144 , 0.023540 
+Test sample 67
+    pressure:  abs. difference, ratio: 33.671604 , 0.149487 
+    velocity:  abs. difference, ratio: 110.615280 , 0.013340 
+    aggregate: abs. difference, ratio: 144.286880 , 0.016940 
+Test sample 68
+    pressure:  abs. difference, ratio: 113.370544 , 0.286997 
+    velocity:  abs. difference, ratio: 380.980347 , 0.043109 
+    aggregate: abs. difference, ratio: 494.350922 , 0.053543 
+Test sample 69
+    pressure:  abs. difference, ratio: 39.666672 , 0.279847 
+    velocity:  abs. difference, ratio: 186.909851 , 0.022425 
+    aggregate: abs. difference, ratio: 226.576538 , 0.026730 
+Test sample 70
+    pressure:  abs. difference, ratio: 266.483459 , 0.402503 
+    velocity:  abs. difference, ratio: 933.429810 , 0.102208 
+    aggregate: abs. difference, ratio: 1199.913330 , 0.122506 
+Test sample 71
+    pressure:  abs. difference, ratio: 35.623878 , 0.194975 
+    velocity:  abs. difference, ratio: 208.348999 , 0.025053 
+    aggregate: abs. difference, ratio: 243.972885 , 0.028706 
+Test sample 72
+    pressure:  abs. difference, ratio: 165.807831 , 0.551722 
+    velocity:  abs. difference, ratio: 751.263672 , 0.082791 
+    aggregate: abs. difference, ratio: 917.071533 , 0.097824 
+Test sample 73
+    pressure:  abs. difference, ratio: 55.216034 , 0.111928 
+    velocity:  abs. difference, ratio: 236.339203 , 0.026338 
+    aggregate: abs. difference, ratio: 291.555237 , 0.030798 
+Test sample 74
+    pressure:  abs. difference, ratio: 73.760902 , 0.139065 
+    velocity:  abs. difference, ratio: 493.011536 , 0.053654 
+    aggregate: abs. difference, ratio: 566.772461 , 0.058315 
+Test sample 75
+    pressure:  abs. difference, ratio: 45.437630 , 0.092421 
+    velocity:  abs. difference, ratio: 218.087311 , 0.024371 
+    aggregate: abs. difference, ratio: 263.524933 , 0.027915 
+Test sample 76
+    pressure:  abs. difference, ratio: 108.840240 , 0.331761 
+    velocity:  abs. difference, ratio: 691.700928 , 0.081915 
+    aggregate: abs. difference, ratio: 800.541138 , 0.091259 
+Test sample 77
+    pressure:  abs. difference, ratio: 145.456543 , 0.363016 
+    velocity:  abs. difference, ratio: 1635.308472 , 0.178108 
+    aggregate: abs. difference, ratio: 1780.765015 , 0.185840 
+Test sample 78
+    pressure:  abs. difference, ratio: 30.017147 , 0.369040 
+    velocity:  abs. difference, ratio: 226.358490 , 0.027999 
+    aggregate: abs. difference, ratio: 256.375641 , 0.031396 
+Test sample 79
+    pressure:  abs. difference, ratio: 29.645931 , 0.182777 
+    velocity:  abs. difference, ratio: 160.984955 , 0.019412 
+    aggregate: abs. difference, ratio: 190.630890 , 0.022546 
+Test sample 80
+    pressure:  abs. difference, ratio: 31.406616 , 0.220609 
+    velocity:  abs. difference, ratio: 122.956360 , 0.014945 
+    aggregate: abs. difference, ratio: 154.362976 , 0.018443 
+Test sample 81
+    pressure:  abs. difference, ratio: 74.217789 , 0.118196 
+    velocity:  abs. difference, ratio: 254.316498 , 0.028002 
+    aggregate: abs. difference, ratio: 328.534271 , 0.033834 
+Test sample 82
+    pressure:  abs. difference, ratio: 32.343189 , 0.362226 
+    velocity:  abs. difference, ratio: 213.767471 , 0.026406 
+    aggregate: abs. difference, ratio: 246.110672 , 0.030070 
+Test sample 83
+    pressure:  abs. difference, ratio: 45.346806 , 0.120157 
+    velocity:  abs. difference, ratio: 299.970032 , 0.033401 
+    aggregate: abs. difference, ratio: 345.316864 , 0.036900 
+Test sample 84
+    pressure:  abs. difference, ratio: 39.246700 , 0.112616 
+    velocity:  abs. difference, ratio: 256.686157 , 0.029097 
+    aggregate: abs. difference, ratio: 295.932861 , 0.032271 
+Test sample 85
+    pressure:  abs. difference, ratio: 19.946234 , 0.099117 
+    velocity:  abs. difference, ratio: 173.585114 , 0.020611 
+    aggregate: abs. difference, ratio: 193.531372 , 0.022443 
+Test sample 86
+    pressure:  abs. difference, ratio: 98.097137 , 0.206282 
+    velocity:  abs. difference, ratio: 407.897522 , 0.045702 
+    aggregate: abs. difference, ratio: 505.994659 , 0.053825 
+Test sample 87
+    pressure:  abs. difference, ratio: 62.265442 , 1.037240 
+    velocity:  abs. difference, ratio: 372.159668 , 0.045139 
+    aggregate: abs. difference, ratio: 434.425110 , 0.052310 
+Test sample 88
+    pressure:  abs. difference, ratio: 20.651978 , 0.102576 
+    velocity:  abs. difference, ratio: 223.002747 , 0.026499 
+    aggregate: abs. difference, ratio: 243.654724 , 0.028277 
+Test sample 89
+    pressure:  abs. difference, ratio: 112.575912 , 0.236253 
+    velocity:  abs. difference, ratio: 535.026367 , 0.058840 
+    aggregate: abs. difference, ratio: 647.602295 , 0.067674 
+Test sample 90
+    pressure:  abs. difference, ratio: 559.404480 , 0.606120 
+    velocity:  abs. difference, ratio: 1790.768066 , 0.194120 
+    aggregate: abs. difference, ratio: 2350.172607 , 0.231590 
+Test sample 91
+    pressure:  abs. difference, ratio: 23.607769 , 0.100718 
+    velocity:  abs. difference, ratio: 166.586761 , 0.019062 
+    aggregate: abs. difference, ratio: 190.194519 , 0.021195 
+Test sample 92
+    pressure:  abs. difference, ratio: 178.300446 , 0.223039 
+    velocity:  abs. difference, ratio: 642.539307 , 0.069329 
+    aggregate: abs. difference, ratio: 820.839783 , 0.081535 
+Test sample 93
+    pressure:  abs. difference, ratio: 32.915718 , 0.097773 
+    velocity:  abs. difference, ratio: 175.821823 , 0.020427 
+    aggregate: abs. difference, ratio: 208.737534 , 0.023339 
+Test sample 94
+    pressure:  abs. difference, ratio: 200.220734 , 0.356668 
+    velocity:  abs. difference, ratio: 807.181641 , 0.088513 
+    aggregate: abs. difference, ratio: 1007.402466 , 0.104063 
+Test sample 95
+    pressure:  abs. difference, ratio: 66.319336 , 0.133889 
+    velocity:  abs. difference, ratio: 233.425293 , 0.025660 
+    aggregate: abs. difference, ratio: 299.744629 , 0.031249 
+Test sample 96
+    pressure:  abs. difference, ratio: 48.342499 , 0.401349 
+    velocity:  abs. difference, ratio: 266.794159 , 0.032182 
+    aggregate: abs. difference, ratio: 315.136658 , 0.037468 
+Test sample 97
+    pressure:  abs. difference, ratio: 17.722752 , 0.061525 
+    velocity:  abs. difference, ratio: 106.921127 , 0.012114 
+    aggregate: abs. difference, ratio: 124.643875 , 0.013676 
+Test sample 98
+    pressure:  abs. difference, ratio: 570.845337 , 0.619152 
+    velocity:  abs. difference, ratio: 1781.857666 , 0.193007 
+    aggregate: abs. difference, ratio: 2352.703125 , 0.231700 
+Test sample 99
+    pressure:  abs. difference, ratio: 19.506599 , 0.242722 
+    velocity:  abs. difference, ratio: 80.432053 , 0.009906 
+    aggregate: abs. difference, ratio: 99.938644 , 0.012188 
+
+
+Loss percentage (p, v, combined): 31.186736 %    5.457224 %    6.299829 % 
+L1 error: 0.012074
+Denormalized error: 0.021103
+
+
+Loading ./modelG
+Loaded ./modelG
+Test sample 0
+    pressure:  abs. difference, ratio: 18.670139 , 0.107876 
+    velocity:  abs. difference, ratio: 83.028717 , 0.010143 
+    aggregate: abs. difference, ratio: 101.698860 , 0.012167 
+Test sample 1
+    pressure:  abs. difference, ratio: 27.468998 , 0.234810 
+    velocity:  abs. difference, ratio: 111.083313 , 0.013198 
+    aggregate: abs. difference, ratio: 138.552307 , 0.016236 
+Test sample 2
+    pressure:  abs. difference, ratio: 25.061459 , 0.057640 
+    velocity:  abs. difference, ratio: 118.615601 , 0.013232 
+    aggregate: abs. difference, ratio: 143.677063 , 0.015287 
+Test sample 3
+    pressure:  abs. difference, ratio: 20.644398 , 0.142915 
+    velocity:  abs. difference, ratio: 96.389771 , 0.011858 
+    aggregate: abs. difference, ratio: 117.034164 , 0.014146 
+Test sample 4
+    pressure:  abs. difference, ratio: 24.551613 , 0.076978 
+    velocity:  abs. difference, ratio: 118.331955 , 0.013820 
+    aggregate: abs. difference, ratio: 142.883560 , 0.016088 
+Test sample 5
+    pressure:  abs. difference, ratio: 17.862316 , 0.128928 
+    velocity:  abs. difference, ratio: 91.461433 , 0.011251 
+    aggregate: abs. difference, ratio: 109.323753 , 0.013223 
+Test sample 6
+    pressure:  abs. difference, ratio: 38.945004 , 0.098630 
+    velocity:  abs. difference, ratio: 233.362747 , 0.026406 
+    aggregate: abs. difference, ratio: 272.307739 , 0.029495 
+Test sample 7
+    pressure:  abs. difference, ratio: 283.010529 , 0.402113 
+    velocity:  abs. difference, ratio: 1195.628662 , 0.129782 
+    aggregate: abs. difference, ratio: 1478.639160 , 0.149110 
+Test sample 8
+    pressure:  abs. difference, ratio: 79.214401 , 0.507319 
+    velocity:  abs. difference, ratio: 422.944519 , 0.048789 
+    aggregate: abs. difference, ratio: 502.158936 , 0.056902 
+Test sample 9
+    pressure:  abs. difference, ratio: 51.731674 , 0.137008 
+    velocity:  abs. difference, ratio: 354.853455 , 0.040141 
+    aggregate: abs. difference, ratio: 406.585114 , 0.044109 
+Test sample 10
+    pressure:  abs. difference, ratio: 147.524734 , 0.415596 
+    velocity:  abs. difference, ratio: 689.125549 , 0.075044 
+    aggregate: abs. difference, ratio: 836.650269 , 0.087719 
+Test sample 11
+    pressure:  abs. difference, ratio: 108.329346 , 0.159158 
+    velocity:  abs. difference, ratio: 519.936584 , 0.055998 
+    aggregate: abs. difference, ratio: 628.265930 , 0.063044 
+Test sample 12
+    pressure:  abs. difference, ratio: 63.785339 , 0.136419 
+    velocity:  abs. difference, ratio: 301.671875 , 0.032644 
+    aggregate: abs. difference, ratio: 365.457214 , 0.037642 
+Test sample 13
+    pressure:  abs. difference, ratio: 13.217699 , 0.101709 
+    velocity:  abs. difference, ratio: 57.904942 , 0.006986 
+    aggregate: abs. difference, ratio: 71.122643 , 0.008448 
+Test sample 14
+    pressure:  abs. difference, ratio: 36.090637 , 0.341079 
+    velocity:  abs. difference, ratio: 149.943802 , 0.017955 
+    aggregate: abs. difference, ratio: 186.034439 , 0.021998 
+Test sample 15
+    pressure:  abs. difference, ratio: 246.367355 , 0.287202 
+    velocity:  abs. difference, ratio: 1034.464722 , 0.112329 
+    aggregate: abs. difference, ratio: 1280.832031 , 0.127230 
+Test sample 16
+    pressure:  abs. difference, ratio: 39.750744 , 0.429394 
+    velocity:  abs. difference, ratio: 198.279907 , 0.024444 
+    aggregate: abs. difference, ratio: 238.030655 , 0.029013 
+Test sample 17
+    pressure:  abs. difference, ratio: 26.929770 , 0.083115 
+    velocity:  abs. difference, ratio: 112.276901 , 0.012819 
+    aggregate: abs. difference, ratio: 139.206665 , 0.015327 
+Test sample 18
+    pressure:  abs. difference, ratio: 25.720304 , 0.105306 
+    velocity:  abs. difference, ratio: 104.082817 , 0.012215 
+    aggregate: abs. difference, ratio: 129.803131 , 0.014809 
+Test sample 19
+    pressure:  abs. difference, ratio: 18.977131 , 0.172936 
+    velocity:  abs. difference, ratio: 76.298355 , 0.009327 
+    aggregate: abs. difference, ratio: 95.275482 , 0.011493 
+Test sample 20
+    pressure:  abs. difference, ratio: 113.482635 , 0.205421 
+    velocity:  abs. difference, ratio: 494.467743 , 0.053202 
+    aggregate: abs. difference, ratio: 607.950378 , 0.061742 
+Test sample 21
+    pressure:  abs. difference, ratio: 28.827461 , 0.121115 
+    velocity:  abs. difference, ratio: 96.911957 , 0.011227 
+    aggregate: abs. difference, ratio: 125.739410 , 0.014176 
+Test sample 22
+    pressure:  abs. difference, ratio: 32.900673 , 0.102551 
+    velocity:  abs. difference, ratio: 130.192749 , 0.014654 
+    aggregate: abs. difference, ratio: 163.093414 , 0.017717 
+Test sample 23
+    pressure:  abs. difference, ratio: 79.064400 , 0.283147 
+    velocity:  abs. difference, ratio: 357.108368 , 0.040802 
+    aggregate: abs. difference, ratio: 436.172791 , 0.048294 
+Test sample 24
+    pressure:  abs. difference, ratio: 23.698410 , 0.160238 
+    velocity:  abs. difference, ratio: 100.227356 , 0.012274 
+    aggregate: abs. difference, ratio: 123.925766 , 0.014907 
+Test sample 25
+    pressure:  abs. difference, ratio: 289.674194 , 0.397397 
+    velocity:  abs. difference, ratio: 945.291138 , 0.103841 
+    aggregate: abs. difference, ratio: 1234.965332 , 0.125604 
+Test sample 26
+    pressure:  abs. difference, ratio: 20.772367 , 0.158545 
+    velocity:  abs. difference, ratio: 95.739258 , 0.011769 
+    aggregate: abs. difference, ratio: 116.511635 , 0.014095 
+Test sample 27
+    pressure:  abs. difference, ratio: 54.292049 , 0.238719 
+    velocity:  abs. difference, ratio: 297.134094 , 0.034107 
+    aggregate: abs. difference, ratio: 351.426147 , 0.039312 
+Test sample 28
+    pressure:  abs. difference, ratio: 38.585091 , 0.393209 
+    velocity:  abs. difference, ratio: 181.300232 , 0.021402 
+    aggregate: abs. difference, ratio: 219.885315 , 0.025660 
+Test sample 29
+    pressure:  abs. difference, ratio: 124.637810 , 0.332817 
+    velocity:  abs. difference, ratio: 1046.636475 , 0.114051 
+    aggregate: abs. difference, ratio: 1171.274292 , 0.122629 
+Test sample 30
+    pressure:  abs. difference, ratio: 100.480736 , 0.340991 
+    velocity:  abs. difference, ratio: 589.549438 , 0.066564 
+    aggregate: abs. difference, ratio: 690.030151 , 0.075400 
+Test sample 31
+    pressure:  abs. difference, ratio: 30.941643 , 0.105591 
+    velocity:  abs. difference, ratio: 143.841736 , 0.016363 
+    aggregate: abs. difference, ratio: 174.783386 , 0.019241 
+Test sample 32
+    pressure:  abs. difference, ratio: 399.338837 , 0.465664 
+    velocity:  abs. difference, ratio: 1406.039062 , 0.154500 
+    aggregate: abs. difference, ratio: 1805.377930 , 0.181296 
+Test sample 33
+    pressure:  abs. difference, ratio: 39.356216 , 0.461609 
+    velocity:  abs. difference, ratio: 143.678009 , 0.017562 
+    aggregate: abs. difference, ratio: 183.034225 , 0.022142 
+Test sample 34
+    pressure:  abs. difference, ratio: 65.714195 , 0.624632 
+    velocity:  abs. difference, ratio: 263.848755 , 0.031670 
+    aggregate: abs. difference, ratio: 329.562958 , 0.039065 
+Test sample 35
+    pressure:  abs. difference, ratio: 25.209396 , 0.211574 
+    velocity:  abs. difference, ratio: 118.104248 , 0.013824 
+    aggregate: abs. difference, ratio: 143.313629 , 0.016544 
+Test sample 36
+    pressure:  abs. difference, ratio: 69.424286 , 0.310717 
+    velocity:  abs. difference, ratio: 346.836975 , 0.038667 
+    aggregate: abs. difference, ratio: 416.261230 , 0.045279 
+Test sample 37
+    pressure:  abs. difference, ratio: 25.332123 , 0.072580 
+    velocity:  abs. difference, ratio: 126.837616 , 0.014783 
+    aggregate: abs. difference, ratio: 152.169739 , 0.017042 
+Test sample 38
+    pressure:  abs. difference, ratio: 19.281712 , 0.177910 
+    velocity:  abs. difference, ratio: 95.199478 , 0.011415 
+    aggregate: abs. difference, ratio: 114.481186 , 0.013551 
+Test sample 39
+    pressure:  abs. difference, ratio: 31.105137 , 0.074043 
+    velocity:  abs. difference, ratio: 179.382690 , 0.019943 
+    aggregate: abs. difference, ratio: 210.487839 , 0.022357 
+Test sample 40
+    pressure:  abs. difference, ratio: 29.842983 , 0.446333 
+    velocity:  abs. difference, ratio: 129.312164 , 0.015714 
+    aggregate: abs. difference, ratio: 159.155167 , 0.019185 
+Test sample 41
+    pressure:  abs. difference, ratio: 45.060066 , 0.425181 
+    velocity:  abs. difference, ratio: 197.798462 , 0.023262 
+    aggregate: abs. difference, ratio: 242.858521 , 0.028209 
+Test sample 42
+    pressure:  abs. difference, ratio: 52.557533 , 0.123538 
+    velocity:  abs. difference, ratio: 222.042389 , 0.024452 
+    aggregate: abs. difference, ratio: 274.599945 , 0.028886 
+Test sample 43
+    pressure:  abs. difference, ratio: 218.672058 , 0.339894 
+    velocity:  abs. difference, ratio: 901.540710 , 0.098327 
+    aggregate: abs. difference, ratio: 1120.212891 , 0.114165 
+Test sample 44
+    pressure:  abs. difference, ratio: 24.027454 , 0.087458 
+    velocity:  abs. difference, ratio: 147.820251 , 0.017419 
+    aggregate: abs. difference, ratio: 171.847717 , 0.019615 
+Test sample 45
+    pressure:  abs. difference, ratio: 113.137726 , 0.215731 
+    velocity:  abs. difference, ratio: 564.903870 , 0.061787 
+    aggregate: abs. difference, ratio: 678.041626 , 0.070138 
+Test sample 46
+    pressure:  abs. difference, ratio: 69.813065 , 0.141076 
+    velocity:  abs. difference, ratio: 367.873169 , 0.040354 
+    aggregate: abs. difference, ratio: 437.686249 , 0.045540 
+Test sample 47
+    pressure:  abs. difference, ratio: 18.480930 , 0.097162 
+    velocity:  abs. difference, ratio: 88.046143 , 0.010595 
+    aggregate: abs. difference, ratio: 106.527069 , 0.012532 
+Test sample 48
+    pressure:  abs. difference, ratio: 379.194672 , 0.429535 
+    velocity:  abs. difference, ratio: 1057.460938 , 0.115445 
+    aggregate: abs. difference, ratio: 1436.655640 , 0.143055 
+Test sample 49
+    pressure:  abs. difference, ratio: 77.386887 , 1.205846 
+    velocity:  abs. difference, ratio: 299.746643 , 0.035700 
+    aggregate: abs. difference, ratio: 377.133514 , 0.044576 
+Test sample 50
+    pressure:  abs. difference, ratio: 37.666779 , 0.070657 
+    velocity:  abs. difference, ratio: 260.842010 , 0.028628 
+    aggregate: abs. difference, ratio: 298.508789 , 0.030951 
+Test sample 51
+    pressure:  abs. difference, ratio: 160.693466 , 0.351557 
+    velocity:  abs. difference, ratio: 558.975525 , 0.062856 
+    aggregate: abs. difference, ratio: 719.668945 , 0.076970 
+Test sample 52
+    pressure:  abs. difference, ratio: 284.422913 , 0.359758 
+    velocity:  abs. difference, ratio: 1237.129883 , 0.127981 
+    aggregate: abs. difference, ratio: 1521.552734 , 0.145504 
+Test sample 53
+    pressure:  abs. difference, ratio: 40.943886 , 0.141760 
+    velocity:  abs. difference, ratio: 225.557190 , 0.026853 
+    aggregate: abs. difference, ratio: 266.501068 , 0.030672 
+Test sample 54
+    pressure:  abs. difference, ratio: 193.179062 , 0.319797 
+    velocity:  abs. difference, ratio: 1112.113037 , 0.117943 
+    aggregate: abs. difference, ratio: 1305.292114 , 0.130096 
+Test sample 55
+    pressure:  abs. difference, ratio: 37.162022 , 0.070648 
+    velocity:  abs. difference, ratio: 217.921753 , 0.023849 
+    aggregate: abs. difference, ratio: 255.083771 , 0.026397 
+Test sample 56
+    pressure:  abs. difference, ratio: 38.838951 , 0.153238 
+    velocity:  abs. difference, ratio: 166.543060 , 0.020142 
+    aggregate: abs. difference, ratio: 205.382004 , 0.024101 
+Test sample 57
+    pressure:  abs. difference, ratio: 145.519928 , 0.191334 
+    velocity:  abs. difference, ratio: 518.481079 , 0.056146 
+    aggregate: abs. difference, ratio: 664.001038 , 0.066433 
+Test sample 58
+    pressure:  abs. difference, ratio: 40.662682 , 0.099774 
+    velocity:  abs. difference, ratio: 184.970337 , 0.021364 
+    aggregate: abs. difference, ratio: 225.633026 , 0.024889 
+Test sample 59
+    pressure:  abs. difference, ratio: 26.760738 , 0.052597 
+    velocity:  abs. difference, ratio: 143.488007 , 0.015933 
+    aggregate: abs. difference, ratio: 170.248749 , 0.017894 
+Test sample 60
+    pressure:  abs. difference, ratio: 175.621216 , 0.189009 
+    velocity:  abs. difference, ratio: 522.434509 , 0.055275 
+    aggregate: abs. difference, ratio: 698.055725 , 0.067245 
+Test sample 61
+    pressure:  abs. difference, ratio: 123.725204 , 0.683499 
+    velocity:  abs. difference, ratio: 417.892578 , 0.048689 
+    aggregate: abs. difference, ratio: 541.617798 , 0.061800 
+Test sample 62
+    pressure:  abs. difference, ratio: 25.815281 , 0.053802 
+    velocity:  abs. difference, ratio: 187.038055 , 0.020557 
+    aggregate: abs. difference, ratio: 212.853333 , 0.022223 
+Test sample 63
+    pressure:  abs. difference, ratio: 22.466831 , 0.052152 
+    velocity:  abs. difference, ratio: 116.396393 , 0.012979 
+    aggregate: abs. difference, ratio: 138.863220 , 0.014775 
+Test sample 64
+    pressure:  abs. difference, ratio: 80.233459 , 0.280415 
+    velocity:  abs. difference, ratio: 317.755981 , 0.035796 
+    aggregate: abs. difference, ratio: 397.989441 , 0.043435 
+Test sample 65
+    pressure:  abs. difference, ratio: 27.410162 , 0.171566 
+    velocity:  abs. difference, ratio: 148.318283 , 0.016950 
+    aggregate: abs. difference, ratio: 175.728455 , 0.019722 
+Test sample 66
+    pressure:  abs. difference, ratio: 25.513786 , 0.059766 
+    velocity:  abs. difference, ratio: 130.269852 , 0.014667 
+    aggregate: abs. difference, ratio: 155.783630 , 0.016735 
+Test sample 67
+    pressure:  abs. difference, ratio: 21.582762 , 0.095818 
+    velocity:  abs. difference, ratio: 119.515472 , 0.014413 
+    aggregate: abs. difference, ratio: 141.098236 , 0.016566 
+Test sample 68
+    pressure:  abs. difference, ratio: 87.180634 , 0.220697 
+    velocity:  abs. difference, ratio: 277.784058 , 0.031432 
+    aggregate: abs. difference, ratio: 364.964722 , 0.039529 
+Test sample 69
+    pressure:  abs. difference, ratio: 23.529739 , 0.166001 
+    velocity:  abs. difference, ratio: 98.839195 , 0.011859 
+    aggregate: abs. difference, ratio: 122.368935 , 0.014436 
+Test sample 70
+    pressure:  abs. difference, ratio: 218.545502 , 0.330097 
+    velocity:  abs. difference, ratio: 731.549866 , 0.080103 
+    aggregate: abs. difference, ratio: 950.095337 , 0.097001 
+Test sample 71
+    pressure:  abs. difference, ratio: 13.549149 , 0.074156 
+    velocity:  abs. difference, ratio: 94.896545 , 0.011411 
+    aggregate: abs. difference, ratio: 108.445694 , 0.012760 
+Test sample 72
+    pressure:  abs. difference, ratio: 152.359573 , 0.506973 
+    velocity:  abs. difference, ratio: 583.774658 , 0.064333 
+    aggregate: abs. difference, ratio: 736.134216 , 0.078523 
+Test sample 73
+    pressure:  abs. difference, ratio: 48.818726 , 0.098960 
+    velocity:  abs. difference, ratio: 242.299850 , 0.027002 
+    aggregate: abs. difference, ratio: 291.118591 , 0.030752 
+Test sample 74
+    pressure:  abs. difference, ratio: 66.648178 , 0.125655 
+    velocity:  abs. difference, ratio: 414.982605 , 0.045162 
+    aggregate: abs. difference, ratio: 481.630798 , 0.049555 
+Test sample 75
+    pressure:  abs. difference, ratio: 43.473724 , 0.088427 
+    velocity:  abs. difference, ratio: 181.557587 , 0.020289 
+    aggregate: abs. difference, ratio: 225.031296 , 0.023837 
+Test sample 76
+    pressure:  abs. difference, ratio: 58.590752 , 0.178593 
+    velocity:  abs. difference, ratio: 279.796936 , 0.033135 
+    aggregate: abs. difference, ratio: 338.387695 , 0.038575 
+Test sample 77
+    pressure:  abs. difference, ratio: 122.316177 , 0.305264 
+    velocity:  abs. difference, ratio: 1007.553345 , 0.109737 
+    aggregate: abs. difference, ratio: 1129.869507 , 0.117913 
+Test sample 78
+    pressure:  abs. difference, ratio: 21.837158 , 0.268473 
+    velocity:  abs. difference, ratio: 119.759224 , 0.014813 
+    aggregate: abs. difference, ratio: 141.596375 , 0.017340 
+Test sample 79
+    pressure:  abs. difference, ratio: 16.891369 , 0.104141 
+    velocity:  abs. difference, ratio: 66.936829 , 0.008071 
+    aggregate: abs. difference, ratio: 83.828194 , 0.009914 
+Test sample 80
+    pressure:  abs. difference, ratio: 14.645334 , 0.102873 
+    velocity:  abs. difference, ratio: 69.814217 , 0.008486 
+    aggregate: abs. difference, ratio: 84.459557 , 0.010091 
+Test sample 81
+    pressure:  abs. difference, ratio: 205.968048 , 0.328016 
+    velocity:  abs. difference, ratio: 733.868469 , 0.080803 
+    aggregate: abs. difference, ratio: 939.836487 , 0.096789 
+Test sample 82
+    pressure:  abs. difference, ratio: 20.269573 , 0.227008 
+    velocity:  abs. difference, ratio: 86.143745 , 0.010641 
+    aggregate: abs. difference, ratio: 106.413322 , 0.013002 
+Test sample 83
+    pressure:  abs. difference, ratio: 47.344307 , 0.125449 
+    velocity:  abs. difference, ratio: 190.766846 , 0.021242 
+    aggregate: abs. difference, ratio: 238.111145 , 0.025444 
+Test sample 84
+    pressure:  abs. difference, ratio: 99.319901 , 0.284991 
+    velocity:  abs. difference, ratio: 376.945496 , 0.042730 
+    aggregate: abs. difference, ratio: 476.265350 , 0.051937 
+Test sample 85
+    pressure:  abs. difference, ratio: 20.870293 , 0.103709 
+    velocity:  abs. difference, ratio: 75.750145 , 0.008994 
+    aggregate: abs. difference, ratio: 96.620438 , 0.011205 
+Test sample 86
+    pressure:  abs. difference, ratio: 113.079414 , 0.237788 
+    velocity:  abs. difference, ratio: 407.242218 , 0.045628 
+    aggregate: abs. difference, ratio: 520.321655 , 0.055349 
+Test sample 87
+    pressure:  abs. difference, ratio: 79.074577 , 1.317252 
+    velocity:  abs. difference, ratio: 288.392181 , 0.034979 
+    aggregate: abs. difference, ratio: 367.466766 , 0.044247 
+Test sample 88
+    pressure:  abs. difference, ratio: 20.335226 , 0.101003 
+    velocity:  abs. difference, ratio: 82.548553 , 0.009809 
+    aggregate: abs. difference, ratio: 102.883781 , 0.011940 
+Test sample 89
+    pressure:  abs. difference, ratio: 56.097664 , 0.117727 
+    velocity:  abs. difference, ratio: 270.624756 , 0.029762 
+    aggregate: abs. difference, ratio: 326.722412 , 0.034142 
+Test sample 90
+    pressure:  abs. difference, ratio: 470.868469 , 0.510190 
+    velocity:  abs. difference, ratio: 1307.867065 , 0.141774 
+    aggregate: abs. difference, ratio: 1778.735596 , 0.175280 
+Test sample 91
+    pressure:  abs. difference, ratio: 61.742577 , 0.263412 
+    velocity:  abs. difference, ratio: 308.908264 , 0.035348 
+    aggregate: abs. difference, ratio: 370.650818 , 0.041305 
+Test sample 92
+    pressure:  abs. difference, ratio: 165.289413 , 0.206763 
+    velocity:  abs. difference, ratio: 613.384216 , 0.066184 
+    aggregate: abs. difference, ratio: 778.673645 , 0.077347 
+Test sample 93
+    pressure:  abs. difference, ratio: 24.861538 , 0.073849 
+    velocity:  abs. difference, ratio: 109.885445 , 0.012767 
+    aggregate: abs. difference, ratio: 134.746979 , 0.015066 
+Test sample 94
+    pressure:  abs. difference, ratio: 135.833374 , 0.241970 
+    velocity:  abs. difference, ratio: 493.655853 , 0.054133 
+    aggregate: abs. difference, ratio: 629.489258 , 0.065025 
+Test sample 95
+    pressure:  abs. difference, ratio: 56.462269 , 0.113989 
+    velocity:  abs. difference, ratio: 230.519470 , 0.025340 
+    aggregate: abs. difference, ratio: 286.981750 , 0.029918 
+Test sample 96
+    pressure:  abs. difference, ratio: 18.842648 , 0.156435 
+    velocity:  abs. difference, ratio: 83.735153 , 0.010100 
+    aggregate: abs. difference, ratio: 102.577805 , 0.012196 
+Test sample 97
+    pressure:  abs. difference, ratio: 25.271982 , 0.087732 
+    velocity:  abs. difference, ratio: 108.964203 , 0.012345 
+    aggregate: abs. difference, ratio: 134.236206 , 0.014728 
+Test sample 98
+    pressure:  abs. difference, ratio: 453.860046 , 0.492267 
+    velocity:  abs. difference, ratio: 1309.435913 , 0.141835 
+    aggregate: abs. difference, ratio: 1763.296021 , 0.173654 
+Test sample 99
+    pressure:  abs. difference, ratio: 21.850885 , 0.271892 
+    velocity:  abs. difference, ratio: 103.394714 , 0.012734 
+    aggregate: abs. difference, ratio: 125.245605 , 0.015274 
+
+
+Loss percentage (p, v, combined): 24.105258 %    3.908058 %    4.585924 % 
+L1 error: 0.008868
+Denormalized error: 0.016030
+
+
+Loading ./modelG
+Loading ./modelG
+Loaded ./modelG
+Test sample 0
+    pressure:  abs. difference, ratio: 30.861052 , 0.178315 
+    velocity:  abs. difference, ratio: 119.590981 , 0.014610 
+    aggregate: abs. difference, ratio: 150.452026 , 0.017999 
+Test sample 1
+    pressure:  abs. difference, ratio: 18.232681 , 0.155857 
+    velocity:  abs. difference, ratio: 137.580215 , 0.016346 
+    aggregate: abs. difference, ratio: 155.812897 , 0.018259 
+Test sample 2
+    pressure:  abs. difference, ratio: 79.359589 , 0.182524 
+    velocity:  abs. difference, ratio: 441.018188 , 0.049199 
+    aggregate: abs. difference, ratio: 520.377747 , 0.055367 
+Test sample 3
+    pressure:  abs. difference, ratio: 27.713589 , 0.191853 
+    velocity:  abs. difference, ratio: 132.188660 , 0.016261 
+    aggregate: abs. difference, ratio: 159.902252 , 0.019327 
+Test sample 4
+    pressure:  abs. difference, ratio: 38.419487 , 0.120459 
+    velocity:  abs. difference, ratio: 206.490021 , 0.024115 
+    aggregate: abs. difference, ratio: 244.909500 , 0.027575 
+Test sample 5
+    pressure:  abs. difference, ratio: 21.044973 , 0.151900 
+    velocity:  abs. difference, ratio: 103.533180 , 0.012736 
+    aggregate: abs. difference, ratio: 124.578148 , 0.015068 
+Test sample 6
+    pressure:  abs. difference, ratio: 48.443665 , 0.122686 
+    velocity:  abs. difference, ratio: 317.347260 , 0.035910 
+    aggregate: abs. difference, ratio: 365.790894 , 0.039621 
+Test sample 7
+    pressure:  abs. difference, ratio: 297.495911 , 0.422694 
+    velocity:  abs. difference, ratio: 946.859009 , 0.102778 
+    aggregate: abs. difference, ratio: 1244.354980 , 0.125484 
+Test sample 8
+    pressure:  abs. difference, ratio: 74.493683 , 0.477086 
+    velocity:  abs. difference, ratio: 325.157898 , 0.037509 
+    aggregate: abs. difference, ratio: 399.651550 , 0.045286 
+Test sample 9
+    pressure:  abs. difference, ratio: 148.506653 , 0.393312 
+    velocity:  abs. difference, ratio: 609.729980 , 0.068972 
+    aggregate: abs. difference, ratio: 758.236633 , 0.082258 
+Test sample 10
+    pressure:  abs. difference, ratio: 178.546463 , 0.502988 
+    velocity:  abs. difference, ratio: 653.689331 , 0.071185 
+    aggregate: abs. difference, ratio: 832.235779 , 0.087256 
+Test sample 11
+    pressure:  abs. difference, ratio: 99.751602 , 0.146555 
+    velocity:  abs. difference, ratio: 440.585388 , 0.047452 
+    aggregate: abs. difference, ratio: 540.336975 , 0.054221 
+Test sample 12
+    pressure:  abs. difference, ratio: 82.452530 , 0.176343 
+    velocity:  abs. difference, ratio: 493.795776 , 0.053434 
+    aggregate: abs. difference, ratio: 576.248352 , 0.059353 
+Test sample 13
+    pressure:  abs. difference, ratio: 20.777561 , 0.159881 
+    velocity:  abs. difference, ratio: 95.149048 , 0.011479 
+    aggregate: abs. difference, ratio: 115.926605 , 0.013770 
+Test sample 14
+    pressure:  abs. difference, ratio: 29.454744 , 0.278366 
+    velocity:  abs. difference, ratio: 106.678635 , 0.012774 
+    aggregate: abs. difference, ratio: 136.133392 , 0.016097 
+Test sample 15
+    pressure:  abs. difference, ratio: 332.923096 , 0.388104 
+    velocity:  abs. difference, ratio: 1272.959961 , 0.138226 
+    aggregate: abs. difference, ratio: 1605.882935 , 0.159519 
+Test sample 16
+    pressure:  abs. difference, ratio: 27.413095 , 0.296121 
+    velocity:  abs. difference, ratio: 106.587730 , 0.013140 
+    aggregate: abs. difference, ratio: 134.000824 , 0.016333 
+Test sample 17
+    pressure:  abs. difference, ratio: 47.017403 , 0.145112 
+    velocity:  abs. difference, ratio: 202.879272 , 0.023164 
+    aggregate: abs. difference, ratio: 249.896683 , 0.027514 
+Test sample 18
+    pressure:  abs. difference, ratio: 37.003414 , 0.151502 
+    velocity:  abs. difference, ratio: 143.797638 , 0.016876 
+    aggregate: abs. difference, ratio: 180.801041 , 0.020628 
+Test sample 19
+    pressure:  abs. difference, ratio: 21.342461 , 0.194491 
+    velocity:  abs. difference, ratio: 105.902931 , 0.012946 
+    aggregate: abs. difference, ratio: 127.245392 , 0.015349 
+Test sample 20
+    pressure:  abs. difference, ratio: 123.033798 , 0.222711 
+    velocity:  abs. difference, ratio: 592.553650 , 0.063755 
+    aggregate: abs. difference, ratio: 715.587402 , 0.072674 
+Test sample 21
+    pressure:  abs. difference, ratio: 24.646843 , 0.103550 
+    velocity:  abs. difference, ratio: 119.146851 , 0.013803 
+    aggregate: abs. difference, ratio: 143.793701 , 0.016212 
+Test sample 22
+    pressure:  abs. difference, ratio: 25.245243 , 0.078689 
+    velocity:  abs. difference, ratio: 187.421814 , 0.021095 
+    aggregate: abs. difference, ratio: 212.667053 , 0.023103 
+Test sample 23
+    pressure:  abs. difference, ratio: 53.059982 , 0.190020 
+    velocity:  abs. difference, ratio: 269.958313 , 0.030844 
+    aggregate: abs. difference, ratio: 323.018311 , 0.035766 
+Test sample 24
+    pressure:  abs. difference, ratio: 27.550625 , 0.186285 
+    velocity:  abs. difference, ratio: 93.689529 , 0.011474 
+    aggregate: abs. difference, ratio: 121.240158 , 0.014584 
+Test sample 25
+    pressure:  abs. difference, ratio: 181.346878 , 0.248785 
+    velocity:  abs. difference, ratio: 516.439331 , 0.056731 
+    aggregate: abs. difference, ratio: 697.786255 , 0.070970 
+Test sample 26
+    pressure:  abs. difference, ratio: 26.696646 , 0.203761 
+    velocity:  abs. difference, ratio: 95.597702 , 0.011752 
+    aggregate: abs. difference, ratio: 122.294350 , 0.014795 
+Test sample 27
+    pressure:  abs. difference, ratio: 49.123699 , 0.215994 
+    velocity:  abs. difference, ratio: 293.682190 , 0.033710 
+    aggregate: abs. difference, ratio: 342.805908 , 0.038348 
+Test sample 28
+    pressure:  abs. difference, ratio: 60.406292 , 0.615582 
+    velocity:  abs. difference, ratio: 235.433670 , 0.027792 
+    aggregate: abs. difference, ratio: 295.839966 , 0.034523 
+Test sample 29
+    pressure:  abs. difference, ratio: 152.300385 , 0.406684 
+    velocity:  abs. difference, ratio: 1330.573486 , 0.144992 
+    aggregate: abs. difference, ratio: 1482.873901 , 0.155252 
+Test sample 30
+    pressure:  abs. difference, ratio: 135.503876 , 0.459846 
+    velocity:  abs. difference, ratio: 642.490295 , 0.072541 
+    aggregate: abs. difference, ratio: 777.994141 , 0.085012 
+Test sample 31
+    pressure:  abs. difference, ratio: 37.108231 , 0.126635 
+    velocity:  abs. difference, ratio: 210.773560 , 0.023977 
+    aggregate: abs. difference, ratio: 247.881790 , 0.027288 
+Test sample 32
+    pressure:  abs. difference, ratio: 365.394531 , 0.426082 
+    velocity:  abs. difference, ratio: 1121.281250 , 0.123210 
+    aggregate: abs. difference, ratio: 1486.675781 , 0.149292 
+Test sample 33
+    pressure:  abs. difference, ratio: 31.987015 , 0.375175 
+    velocity:  abs. difference, ratio: 125.103470 , 0.015292 
+    aggregate: abs. difference, ratio: 157.090485 , 0.019003 
+Test sample 34
+    pressure:  abs. difference, ratio: 54.773491 , 0.520637 
+    velocity:  abs. difference, ratio: 241.212677 , 0.028953 
+    aggregate: abs. difference, ratio: 295.986176 , 0.035085 
+Test sample 35
+    pressure:  abs. difference, ratio: 24.629948 , 0.206711 
+    velocity:  abs. difference, ratio: 143.076782 , 0.016747 
+    aggregate: abs. difference, ratio: 167.706726 , 0.019360 
+Test sample 36
+    pressure:  abs. difference, ratio: 76.691681 , 0.343243 
+    velocity:  abs. difference, ratio: 357.478027 , 0.039853 
+    aggregate: abs. difference, ratio: 434.169678 , 0.047227 
+Test sample 37
+    pressure:  abs. difference, ratio: 47.475502 , 0.136024 
+    velocity:  abs. difference, ratio: 210.746674 , 0.024562 
+    aggregate: abs. difference, ratio: 258.222168 , 0.028919 
+Test sample 38
+    pressure:  abs. difference, ratio: 26.958494 , 0.248742 
+    velocity:  abs. difference, ratio: 130.142975 , 0.015606 
+    aggregate: abs. difference, ratio: 157.101456 , 0.018597 
+Test sample 39
+    pressure:  abs. difference, ratio: 33.850430 , 0.080578 
+    velocity:  abs. difference, ratio: 229.651245 , 0.025532 
+    aggregate: abs. difference, ratio: 263.501678 , 0.027988 
+Test sample 40
+    pressure:  abs. difference, ratio: 21.413063 , 0.320255 
+    velocity:  abs. difference, ratio: 91.127457 , 0.011074 
+    aggregate: abs. difference, ratio: 112.540527 , 0.013566 
+Test sample 41
+    pressure:  abs. difference, ratio: 38.206444 , 0.360511 
+    velocity:  abs. difference, ratio: 154.299622 , 0.018146 
+    aggregate: abs. difference, ratio: 192.506058 , 0.022360 
+Test sample 42
+    pressure:  abs. difference, ratio: 33.918732 , 0.079727 
+    velocity:  abs. difference, ratio: 261.718384 , 0.028821 
+    aggregate: abs. difference, ratio: 295.637115 , 0.031099 
+Test sample 43
+    pressure:  abs. difference, ratio: 253.456650 , 0.393961 
+    velocity:  abs. difference, ratio: 925.430542 , 0.100932 
+    aggregate: abs. difference, ratio: 1178.887207 , 0.120145 
+Test sample 44
+    pressure:  abs. difference, ratio: 26.469725 , 0.096348 
+    velocity:  abs. difference, ratio: 168.579453 , 0.019865 
+    aggregate: abs. difference, ratio: 195.049179 , 0.022263 
+Test sample 45
+    pressure:  abs. difference, ratio: 99.927979 , 0.190543 
+    velocity:  abs. difference, ratio: 551.753113 , 0.060349 
+    aggregate: abs. difference, ratio: 651.681091 , 0.067412 
+Test sample 46
+    pressure:  abs. difference, ratio: 54.545441 , 0.110223 
+    velocity:  abs. difference, ratio: 401.382385 , 0.044030 
+    aggregate: abs. difference, ratio: 455.927795 , 0.047438 
+Test sample 47
+    pressure:  abs. difference, ratio: 29.378881 , 0.154457 
+    velocity:  abs. difference, ratio: 126.291946 , 0.015197 
+    aggregate: abs. difference, ratio: 155.670837 , 0.018313 
+Test sample 48
+    pressure:  abs. difference, ratio: 419.777039 , 0.475505 
+    velocity:  abs. difference, ratio: 1253.252075 , 0.136820 
+    aggregate: abs. difference, ratio: 1673.029297 , 0.166592 
+Test sample 49
+    pressure:  abs. difference, ratio: 48.325191 , 0.753005 
+    velocity:  abs. difference, ratio: 243.897583 , 0.029048 
+    aggregate: abs. difference, ratio: 292.222778 , 0.034540 
+Test sample 50
+    pressure:  abs. difference, ratio: 52.115501 , 0.097761 
+    velocity:  abs. difference, ratio: 420.543579 , 0.046155 
+    aggregate: abs. difference, ratio: 472.659088 , 0.049008 
+Test sample 51
+    pressure:  abs. difference, ratio: 183.816879 , 0.402146 
+    velocity:  abs. difference, ratio: 666.545654 , 0.074952 
+    aggregate: abs. difference, ratio: 850.362549 , 0.090948 
+Test sample 52
+    pressure:  abs. difference, ratio: 314.847198 , 0.398241 
+    velocity:  abs. difference, ratio: 1471.840332 , 0.152262 
+    aggregate: abs. difference, ratio: 1786.687622 , 0.170859 
+Test sample 53
+    pressure:  abs. difference, ratio: 50.751705 , 0.175717 
+    velocity:  abs. difference, ratio: 221.004120 , 0.026311 
+    aggregate: abs. difference, ratio: 271.755829 , 0.031277 
+Test sample 54
+    pressure:  abs. difference, ratio: 180.089371 , 0.298128 
+    velocity:  abs. difference, ratio: 1089.533691 , 0.115548 
+    aggregate: abs. difference, ratio: 1269.623047 , 0.126541 
+Test sample 55
+    pressure:  abs. difference, ratio: 69.714836 , 0.132534 
+    velocity:  abs. difference, ratio: 402.170349 , 0.044013 
+    aggregate: abs. difference, ratio: 471.885162 , 0.048832 
+Test sample 56
+    pressure:  abs. difference, ratio: 66.353104 , 0.261795 
+    velocity:  abs. difference, ratio: 253.253952 , 0.030629 
+    aggregate: abs. difference, ratio: 319.607056 , 0.037505 
+Test sample 57
+    pressure:  abs. difference, ratio: 151.071899 , 0.198634 
+    velocity:  abs. difference, ratio: 567.705933 , 0.061477 
+    aggregate: abs. difference, ratio: 718.777771 , 0.071913 
+Test sample 58
+    pressure:  abs. difference, ratio: 70.180016 , 0.172200 
+    velocity:  abs. difference, ratio: 289.188232 , 0.033402 
+    aggregate: abs. difference, ratio: 359.368256 , 0.039642 
+Test sample 59
+    pressure:  abs. difference, ratio: 99.863510 , 0.196276 
+    velocity:  abs. difference, ratio: 428.968353 , 0.047634 
+    aggregate: abs. difference, ratio: 528.831848 , 0.055583 
+Test sample 60
+    pressure:  abs. difference, ratio: 93.705002 , 0.100848 
+    velocity:  abs. difference, ratio: 399.633972 , 0.042282 
+    aggregate: abs. difference, ratio: 493.338959 , 0.047525 
+Test sample 61
+    pressure:  abs. difference, ratio: 51.648216 , 0.285322 
+    velocity:  abs. difference, ratio: 252.151382 , 0.029378 
+    aggregate: abs. difference, ratio: 303.799591 , 0.034665 
+Test sample 62
+    pressure:  abs. difference, ratio: 66.718307 , 0.139047 
+    velocity:  abs. difference, ratio: 432.287292 , 0.047513 
+    aggregate: abs. difference, ratio: 499.005615 , 0.052098 
+Test sample 63
+    pressure:  abs. difference, ratio: 69.930145 , 0.162327 
+    velocity:  abs. difference, ratio: 386.397339 , 0.043087 
+    aggregate: abs. difference, ratio: 456.327484 , 0.048552 
+Test sample 64
+    pressure:  abs. difference, ratio: 100.157684 , 0.350050 
+    velocity:  abs. difference, ratio: 397.989258 , 0.044835 
+    aggregate: abs. difference, ratio: 498.146942 , 0.054365 
+Test sample 65
+    pressure:  abs. difference, ratio: 95.775589 , 0.599478 
+    velocity:  abs. difference, ratio: 371.632690 , 0.042470 
+    aggregate: abs. difference, ratio: 467.408295 , 0.052458 
+Test sample 66
+    pressure:  abs. difference, ratio: 39.458221 , 0.092431 
+    velocity:  abs. difference, ratio: 245.013351 , 0.027586 
+    aggregate: abs. difference, ratio: 284.471558 , 0.030560 
+Test sample 67
+    pressure:  abs. difference, ratio: 27.506622 , 0.122117 
+    velocity:  abs. difference, ratio: 126.818077 , 0.015294 
+    aggregate: abs. difference, ratio: 154.324707 , 0.018119 
+Test sample 68
+    pressure:  abs. difference, ratio: 55.864487 , 0.141421 
+    velocity:  abs. difference, ratio: 224.220215 , 0.025371 
+    aggregate: abs. difference, ratio: 280.084717 , 0.030336 
+Test sample 69
+    pressure:  abs. difference, ratio: 32.525684 , 0.229467 
+    velocity:  abs. difference, ratio: 161.890198 , 0.019424 
+    aggregate: abs. difference, ratio: 194.415878 , 0.022936 
+Test sample 70
+    pressure:  abs. difference, ratio: 248.097687 , 0.374733 
+    velocity:  abs. difference, ratio: 844.733337 , 0.092496 
+    aggregate: abs. difference, ratio: 1092.831055 , 0.111574 
+Test sample 71
+    pressure:  abs. difference, ratio: 16.022038 , 0.087691 
+    velocity:  abs. difference, ratio: 98.288849 , 0.011819 
+    aggregate: abs. difference, ratio: 114.310883 , 0.013450 
+Test sample 72
+    pressure:  abs. difference, ratio: 175.694733 , 0.584620 
+    velocity:  abs. difference, ratio: 603.844238 , 0.066545 
+    aggregate: abs. difference, ratio: 779.539062 , 0.083153 
+Test sample 73
+    pressure:  abs. difference, ratio: 108.645401 , 0.220234 
+    velocity:  abs. difference, ratio: 486.161987 , 0.054178 
+    aggregate: abs. difference, ratio: 594.807373 , 0.062831 
+Test sample 74
+    pressure:  abs. difference, ratio: 123.533325 , 0.232904 
+    velocity:  abs. difference, ratio: 688.493530 , 0.074928 
+    aggregate: abs. difference, ratio: 812.026917 , 0.083549 
+Test sample 75
+    pressure:  abs. difference, ratio: 88.902161 , 0.180829 
+    velocity:  abs. difference, ratio: 408.880035 , 0.045692 
+    aggregate: abs. difference, ratio: 497.782227 , 0.052730 
+Test sample 76
+    pressure:  abs. difference, ratio: 57.121483 , 0.174115 
+    velocity:  abs. difference, ratio: 248.210114 , 0.029395 
+    aggregate: abs. difference, ratio: 305.331573 , 0.034807 
+Test sample 77
+    pressure:  abs. difference, ratio: 131.372238 , 0.327865 
+    velocity:  abs. difference, ratio: 1210.778076 , 0.131871 
+    aggregate: abs. difference, ratio: 1342.150391 , 0.140066 
+Test sample 78
+    pressure:  abs. difference, ratio: 26.394629 , 0.324504 
+    velocity:  abs. difference, ratio: 101.186981 , 0.012516 
+    aggregate: abs. difference, ratio: 127.581619 , 0.015624 
+Test sample 79
+    pressure:  abs. difference, ratio: 22.535118 , 0.138937 
+    velocity:  abs. difference, ratio: 90.852829 , 0.010955 
+    aggregate: abs. difference, ratio: 113.387939 , 0.013410 
+Test sample 80
+    pressure:  abs. difference, ratio: 17.414726 , 0.122326 
+    velocity:  abs. difference, ratio: 94.595428 , 0.011498 
+    aggregate: abs. difference, ratio: 112.010147 , 0.013383 
+Test sample 81
+    pressure:  abs. difference, ratio: 228.793640 , 0.364367 
+    velocity:  abs. difference, ratio: 775.773315 , 0.085417 
+    aggregate: abs. difference, ratio: 1004.567017 , 0.103456 
+Test sample 82
+    pressure:  abs. difference, ratio: 23.380644 , 0.261850 
+    velocity:  abs. difference, ratio: 71.965805 , 0.008890 
+    aggregate: abs. difference, ratio: 95.346451 , 0.011649 
+Test sample 83
+    pressure:  abs. difference, ratio: 45.858994 , 0.121514 
+    velocity:  abs. difference, ratio: 260.722900 , 0.029031 
+    aggregate: abs. difference, ratio: 306.581909 , 0.032761 
+Test sample 84
+    pressure:  abs. difference, ratio: 37.568569 , 0.107800 
+    velocity:  abs. difference, ratio: 211.022049 , 0.023921 
+    aggregate: abs. difference, ratio: 248.590622 , 0.027109 
+Test sample 85
+    pressure:  abs. difference, ratio: 27.456938 , 0.136439 
+    velocity:  abs. difference, ratio: 127.758110 , 0.015170 
+    aggregate: abs. difference, ratio: 155.215057 , 0.018000 
+Test sample 86
+    pressure:  abs. difference, ratio: 61.361771 , 0.129034 
+    velocity:  abs. difference, ratio: 266.606567 , 0.029871 
+    aggregate: abs. difference, ratio: 327.968353 , 0.034887 
+Test sample 87
+    pressure:  abs. difference, ratio: 48.641830 , 0.810293 
+    velocity:  abs. difference, ratio: 164.384094 , 0.019938 
+    aggregate: abs. difference, ratio: 213.025925 , 0.025651 
+Test sample 88
+    pressure:  abs. difference, ratio: 22.150116 , 0.110017 
+    velocity:  abs. difference, ratio: 101.811874 , 0.012098 
+    aggregate: abs. difference, ratio: 123.961990 , 0.014386 
+Test sample 89
+    pressure:  abs. difference, ratio: 123.851570 , 0.259916 
+    velocity:  abs. difference, ratio: 493.132782 , 0.054233 
+    aggregate: abs. difference, ratio: 616.984375 , 0.064475 
+Test sample 90
+    pressure:  abs. difference, ratio: 537.669434 , 0.582570 
+    velocity:  abs. difference, ratio: 1533.847412 , 0.166270 
+    aggregate: abs. difference, ratio: 2071.516846 , 0.204131 
+Test sample 91
+    pressure:  abs. difference, ratio: 37.130394 , 0.158409 
+    velocity:  abs. difference, ratio: 274.556458 , 0.031417 
+    aggregate: abs. difference, ratio: 311.686890 , 0.034734 
+Test sample 92
+    pressure:  abs. difference, ratio: 152.732742 , 0.191056 
+    velocity:  abs. difference, ratio: 507.442444 , 0.054753 
+    aggregate: abs. difference, ratio: 660.175171 , 0.065576 
+Test sample 93
+    pressure:  abs. difference, ratio: 43.757645 , 0.129978 
+    velocity:  abs. difference, ratio: 219.260986 , 0.025474 
+    aggregate: abs. difference, ratio: 263.018646 , 0.029408 
+Test sample 94
+    pressure:  abs. difference, ratio: 141.803329 , 0.252605 
+    velocity:  abs. difference, ratio: 588.452026 , 0.064528 
+    aggregate: abs. difference, ratio: 730.255310 , 0.075434 
+Test sample 95
+    pressure:  abs. difference, ratio: 95.766846 , 0.193339 
+    velocity:  abs. difference, ratio: 295.004883 , 0.032429 
+    aggregate: abs. difference, ratio: 390.771759 , 0.040738 
+Test sample 96
+    pressure:  abs. difference, ratio: 25.573469 , 0.212316 
+    velocity:  abs. difference, ratio: 139.227585 , 0.016794 
+    aggregate: abs. difference, ratio: 164.801056 , 0.019594 
+Test sample 97
+    pressure:  abs. difference, ratio: 25.333275 , 0.087945 
+    velocity:  abs. difference, ratio: 178.721573 , 0.020249 
+    aggregate: abs. difference, ratio: 204.054855 , 0.022388 
+Test sample 98
+    pressure:  abs. difference, ratio: 469.494812 , 0.509225 
+    velocity:  abs. difference, ratio: 1420.400391 , 0.153855 
+    aggregate: abs. difference, ratio: 1889.895264 , 0.186122 
+Test sample 99
+    pressure:  abs. difference, ratio: 26.004528 , 0.323577 
+    velocity:  abs. difference, ratio: 111.648087 , 0.013750 
+    aggregate: abs. difference, ratio: 137.652618 , 0.016787 
+
+
+Loss percentage (p, v, combined): 25.433369 %    4.415220 %    5.159592 % 
+L1 error: 0.009973
+Denormalized error: 0.017649
+
+
+Loading ./modelG
+Loaded ./modelG
+Test sample 0
+    pressure:  abs. difference, ratio: 37.702549 , 0.217845 
+    velocity:  abs. difference, ratio: 158.737427 , 0.019392 
+    aggregate: abs. difference, ratio: 196.439987 , 0.023501 
+Test sample 1
+    pressure:  abs. difference, ratio: 13.837700 , 0.118287 
+    velocity:  abs. difference, ratio: 147.588623 , 0.017536 
+    aggregate: abs. difference, ratio: 161.426300 , 0.018917 
+Test sample 2
+    pressure:  abs. difference, ratio: 51.738567 , 0.118997 
+    velocity:  abs. difference, ratio: 270.201782 , 0.030143 
+    aggregate: abs. difference, ratio: 321.940369 , 0.034253 
+Test sample 3
+    pressure:  abs. difference, ratio: 38.866936 , 0.269064 
+    velocity:  abs. difference, ratio: 212.152191 , 0.026098 
+    aggregate: abs. difference, ratio: 251.019119 , 0.030340 
+Test sample 4
+    pressure:  abs. difference, ratio: 31.635866 , 0.099190 
+    velocity:  abs. difference, ratio: 188.066833 , 0.021964 
+    aggregate: abs. difference, ratio: 219.702698 , 0.024737 
+Test sample 5
+    pressure:  abs. difference, ratio: 34.361088 , 0.248014 
+    velocity:  abs. difference, ratio: 201.062546 , 0.024733 
+    aggregate: abs. difference, ratio: 235.423645 , 0.028474 
+Test sample 6
+    pressure:  abs. difference, ratio: 74.773010 , 0.189366 
+    velocity:  abs. difference, ratio: 525.363037 , 0.059448 
+    aggregate: abs. difference, ratio: 600.136108 , 0.065005 
+Test sample 7
+    pressure:  abs. difference, ratio: 177.376740 , 0.252024 
+    velocity:  abs. difference, ratio: 594.691650 , 0.064552 
+    aggregate: abs. difference, ratio: 772.068359 , 0.077857 
+Test sample 8
+    pressure:  abs. difference, ratio: 37.146492 , 0.237900 
+    velocity:  abs. difference, ratio: 206.122620 , 0.023777 
+    aggregate: abs. difference, ratio: 243.269104 , 0.027566 
+Test sample 9
+    pressure:  abs. difference, ratio: 126.207787 , 0.334254 
+    velocity:  abs. difference, ratio: 701.817017 , 0.079389 
+    aggregate: abs. difference, ratio: 828.024780 , 0.089829 
+Test sample 10
+    pressure:  abs. difference, ratio: 97.027710 , 0.273339 
+    velocity:  abs. difference, ratio: 451.113068 , 0.049125 
+    aggregate: abs. difference, ratio: 548.140747 , 0.057470 
+Test sample 11
+    pressure:  abs. difference, ratio: 90.098000 , 0.132372 
+    velocity:  abs. difference, ratio: 420.410797 , 0.045279 
+    aggregate: abs. difference, ratio: 510.508789 , 0.051228 
+Test sample 12
+    pressure:  abs. difference, ratio: 71.417709 , 0.152743 
+    velocity:  abs. difference, ratio: 417.267426 , 0.045153 
+    aggregate: abs. difference, ratio: 488.685120 , 0.050334 
+Test sample 13
+    pressure:  abs. difference, ratio: 13.087458 , 0.100707 
+    velocity:  abs. difference, ratio: 111.287056 , 0.013426 
+    aggregate: abs. difference, ratio: 124.374512 , 0.014773 
+Test sample 14
+    pressure:  abs. difference, ratio: 33.264824 , 0.314374 
+    velocity:  abs. difference, ratio: 127.348297 , 0.015249 
+    aggregate: abs. difference, ratio: 160.613129 , 0.018992 
+Test sample 15
+    pressure:  abs. difference, ratio: 249.175110 , 0.290475 
+    velocity:  abs. difference, ratio: 1032.671387 , 0.112134 
+    aggregate: abs. difference, ratio: 1281.846436 , 0.127331 
+Test sample 16
+    pressure:  abs. difference, ratio: 26.540939 , 0.286700 
+    velocity:  abs. difference, ratio: 147.694733 , 0.018208 
+    aggregate: abs. difference, ratio: 174.235657 , 0.021237 
+Test sample 17
+    pressure:  abs. difference, ratio: 32.451492 , 0.100157 
+    velocity:  abs. difference, ratio: 177.635620 , 0.020282 
+    aggregate: abs. difference, ratio: 210.087097 , 0.023131 
+Test sample 18
+    pressure:  abs. difference, ratio: 20.819761 , 0.085242 
+    velocity:  abs. difference, ratio: 116.758316 , 0.013703 
+    aggregate: abs. difference, ratio: 137.578079 , 0.015696 
+Test sample 19
+    pressure:  abs. difference, ratio: 17.643967 , 0.160787 
+    velocity:  abs. difference, ratio: 105.133881 , 0.012852 
+    aggregate: abs. difference, ratio: 122.777855 , 0.014810 
+Test sample 20
+    pressure:  abs. difference, ratio: 143.388763 , 0.259556 
+    velocity:  abs. difference, ratio: 658.648315 , 0.070867 
+    aggregate: abs. difference, ratio: 802.037109 , 0.081453 
+Test sample 21
+    pressure:  abs. difference, ratio: 33.343132 , 0.140087 
+    velocity:  abs. difference, ratio: 134.525604 , 0.015585 
+    aggregate: abs. difference, ratio: 167.868744 , 0.018926 
+Test sample 22
+    pressure:  abs. difference, ratio: 33.034382 , 0.102967 
+    velocity:  abs. difference, ratio: 198.907791 , 0.022388 
+    aggregate: abs. difference, ratio: 231.942169 , 0.025197 
+Test sample 23
+    pressure:  abs. difference, ratio: 99.105881 , 0.354921 
+    velocity:  abs. difference, ratio: 348.774811 , 0.039849 
+    aggregate: abs. difference, ratio: 447.880676 , 0.049591 
+Test sample 24
+    pressure:  abs. difference, ratio: 26.023628 , 0.175960 
+    velocity:  abs. difference, ratio: 109.009613 , 0.013350 
+    aggregate: abs. difference, ratio: 135.033249 , 0.016243 
+Test sample 25
+    pressure:  abs. difference, ratio: 225.025146 , 0.308707 
+    velocity:  abs. difference, ratio: 662.375244 , 0.072762 
+    aggregate: abs. difference, ratio: 887.400391 , 0.090255 
+Test sample 26
+    pressure:  abs. difference, ratio: 23.234228 , 0.177335 
+    velocity:  abs. difference, ratio: 105.316086 , 0.012946 
+    aggregate: abs. difference, ratio: 128.550323 , 0.015552 
+Test sample 27
+    pressure:  abs. difference, ratio: 73.558578 , 0.323432 
+    velocity:  abs. difference, ratio: 329.768707 , 0.037853 
+    aggregate: abs. difference, ratio: 403.327271 , 0.045118 
+Test sample 28
+    pressure:  abs. difference, ratio: 51.623428 , 0.526078 
+    velocity:  abs. difference, ratio: 236.849518 , 0.027960 
+    aggregate: abs. difference, ratio: 288.472961 , 0.033664 
+Test sample 29
+    pressure:  abs. difference, ratio: 144.197113 , 0.385046 
+    velocity:  abs. difference, ratio: 1427.665283 , 0.155572 
+    aggregate: abs. difference, ratio: 1571.862549 , 0.164569 
+Test sample 30
+    pressure:  abs. difference, ratio: 105.191635 , 0.356978 
+    velocity:  abs. difference, ratio: 577.227295 , 0.065172 
+    aggregate: abs. difference, ratio: 682.418884 , 0.074568 
+Test sample 31
+    pressure:  abs. difference, ratio: 23.933937 , 0.081677 
+    velocity:  abs. difference, ratio: 209.064423 , 0.023782 
+    aggregate: abs. difference, ratio: 232.998367 , 0.025650 
+Test sample 32
+    pressure:  abs. difference, ratio: 327.627655 , 0.382043 
+    velocity:  abs. difference, ratio: 1075.561523 , 0.118186 
+    aggregate: abs. difference, ratio: 1403.189209 , 0.140908 
+Test sample 33
+    pressure:  abs. difference, ratio: 24.458414 , 0.286873 
+    velocity:  abs. difference, ratio: 143.214691 , 0.017505 
+    aggregate: abs. difference, ratio: 167.673096 , 0.020284 
+Test sample 34
+    pressure:  abs. difference, ratio: 50.220001 , 0.477355 
+    velocity:  abs. difference, ratio: 203.752762 , 0.024457 
+    aggregate: abs. difference, ratio: 253.972763 , 0.030104 
+Test sample 35
+    pressure:  abs. difference, ratio: 68.596573 , 0.575709 
+    velocity:  abs. difference, ratio: 353.509949 , 0.041379 
+    aggregate: abs. difference, ratio: 422.106567 , 0.048729 
+Test sample 36
+    pressure:  abs. difference, ratio: 37.200905 , 0.166497 
+    velocity:  abs. difference, ratio: 188.546921 , 0.021020 
+    aggregate: abs. difference, ratio: 225.747803 , 0.024556 
+Test sample 37
+    pressure:  abs. difference, ratio: 30.281105 , 0.086760 
+    velocity:  abs. difference, ratio: 193.421692 , 0.022543 
+    aggregate: abs. difference, ratio: 223.702789 , 0.025053 
+Test sample 38
+    pressure:  abs. difference, ratio: 28.817057 , 0.265891 
+    velocity:  abs. difference, ratio: 148.872925 , 0.017851 
+    aggregate: abs. difference, ratio: 177.689987 , 0.021034 
+Test sample 39
+    pressure:  abs. difference, ratio: 37.766571 , 0.089900 
+    velocity:  abs. difference, ratio: 285.256378 , 0.031714 
+    aggregate: abs. difference, ratio: 323.022919 , 0.034310 
+Test sample 40
+    pressure:  abs. difference, ratio: 20.509844 , 0.306746 
+    velocity:  abs. difference, ratio: 97.359863 , 0.011831 
+    aggregate: abs. difference, ratio: 117.869705 , 0.014208 
+Test sample 41
+    pressure:  abs. difference, ratio: 74.163651 , 0.699799 
+    velocity:  abs. difference, ratio: 366.010651 , 0.043044 
+    aggregate: abs. difference, ratio: 440.174316 , 0.051128 
+Test sample 42
+    pressure:  abs. difference, ratio: 36.787819 , 0.086471 
+    velocity:  abs. difference, ratio: 250.058044 , 0.027537 
+    aggregate: abs. difference, ratio: 286.845856 , 0.030174 
+Test sample 43
+    pressure:  abs. difference, ratio: 256.283691 , 0.398355 
+    velocity:  abs. difference, ratio: 940.900940 , 0.102619 
+    aggregate: abs. difference, ratio: 1197.184570 , 0.122010 
+Test sample 44
+    pressure:  abs. difference, ratio: 21.408817 , 0.077927 
+    velocity:  abs. difference, ratio: 179.646393 , 0.021169 
+    aggregate: abs. difference, ratio: 201.055206 , 0.022949 
+Test sample 45
+    pressure:  abs. difference, ratio: 91.107590 , 0.173724 
+    velocity:  abs. difference, ratio: 523.072632 , 0.057212 
+    aggregate: abs. difference, ratio: 614.180176 , 0.063532 
+Test sample 46
+    pressure:  abs. difference, ratio: 38.816254 , 0.078438 
+    velocity:  abs. difference, ratio: 377.372314 , 0.041396 
+    aggregate: abs. difference, ratio: 416.188568 , 0.043303 
+Test sample 47
+    pressure:  abs. difference, ratio: 17.036140 , 0.089566 
+    velocity:  abs. difference, ratio: 133.741318 , 0.016094 
+    aggregate: abs. difference, ratio: 150.777466 , 0.017738 
+Test sample 48
+    pressure:  abs. difference, ratio: 404.501770 , 0.458201 
+    velocity:  abs. difference, ratio: 1173.548584 , 0.128118 
+    aggregate: abs. difference, ratio: 1578.050293 , 0.157134 
+Test sample 49
+    pressure:  abs. difference, ratio: 59.793606 , 0.931707 
+    velocity:  abs. difference, ratio: 226.230103 , 0.026944 
+    aggregate: abs. difference, ratio: 286.023712 , 0.033807 
+Test sample 50
+    pressure:  abs. difference, ratio: 48.096474 , 0.090222 
+    velocity:  abs. difference, ratio: 440.754883 , 0.048374 
+    aggregate: abs. difference, ratio: 488.851379 , 0.050687 
+Test sample 51
+    pressure:  abs. difference, ratio: 239.877869 , 0.524793 
+    velocity:  abs. difference, ratio: 777.178345 , 0.087393 
+    aggregate: abs. difference, ratio: 1017.056213 , 0.108776 
+Test sample 52
+    pressure:  abs. difference, ratio: 329.625458 , 0.416934 
+    velocity:  abs. difference, ratio: 1296.060303 , 0.134078 
+    aggregate: abs. difference, ratio: 1625.685791 , 0.155462 
+Test sample 53
+    pressure:  abs. difference, ratio: 59.194443 , 0.204949 
+    velocity:  abs. difference, ratio: 278.729828 , 0.033183 
+    aggregate: abs. difference, ratio: 337.924255 , 0.038893 
+Test sample 54
+    pressure:  abs. difference, ratio: 180.625824 , 0.299016 
+    velocity:  abs. difference, ratio: 1206.298706 , 0.127932 
+    aggregate: abs. difference, ratio: 1386.924561 , 0.138232 
+Test sample 55
+    pressure:  abs. difference, ratio: 41.591888 , 0.079070 
+    velocity:  abs. difference, ratio: 366.121033 , 0.040068 
+    aggregate: abs. difference, ratio: 407.712921 , 0.042191 
+Test sample 56
+    pressure:  abs. difference, ratio: 52.644188 , 0.207707 
+    velocity:  abs. difference, ratio: 297.222626 , 0.035947 
+    aggregate: abs. difference, ratio: 349.866821 , 0.041056 
+Test sample 57
+    pressure:  abs. difference, ratio: 183.371918 , 0.241103 
+    velocity:  abs. difference, ratio: 717.236572 , 0.077669 
+    aggregate: abs. difference, ratio: 900.608582 , 0.090106 
+Test sample 58
+    pressure:  abs. difference, ratio: 50.481335 , 0.123865 
+    velocity:  abs. difference, ratio: 241.988937 , 0.027950 
+    aggregate: abs. difference, ratio: 292.470276 , 0.032262 
+Test sample 59
+    pressure:  abs. difference, ratio: 47.319118 , 0.093003 
+    velocity:  abs. difference, ratio: 277.893890 , 0.030858 
+    aggregate: abs. difference, ratio: 325.213013 , 0.034182 
+Test sample 60
+    pressure:  abs. difference, ratio: 123.834702 , 0.133275 
+    velocity:  abs. difference, ratio: 375.265656 , 0.039704 
+    aggregate: abs. difference, ratio: 499.100372 , 0.048080 
+Test sample 61
+    pressure:  abs. difference, ratio: 102.491089 , 0.566195 
+    velocity:  abs. difference, ratio: 365.275269 , 0.042558 
+    aggregate: abs. difference, ratio: 467.766357 , 0.053374 
+Test sample 62
+    pressure:  abs. difference, ratio: 33.687847 , 0.070209 
+    velocity:  abs. difference, ratio: 324.288971 , 0.035643 
+    aggregate: abs. difference, ratio: 357.976807 , 0.037374 
+Test sample 63
+    pressure:  abs. difference, ratio: 21.534472 , 0.049987 
+    velocity:  abs. difference, ratio: 214.783234 , 0.023950 
+    aggregate: abs. difference, ratio: 236.317688 , 0.025144 
+Test sample 64
+    pressure:  abs. difference, ratio: 97.581657 , 0.341047 
+    velocity:  abs. difference, ratio: 494.083374 , 0.055660 
+    aggregate: abs. difference, ratio: 591.665039 , 0.064571 
+Test sample 65
+    pressure:  abs. difference, ratio: 51.588272 , 0.322901 
+    velocity:  abs. difference, ratio: 267.728638 , 0.030596 
+    aggregate: abs. difference, ratio: 319.316895 , 0.035837 
+Test sample 66
+    pressure:  abs. difference, ratio: 36.843422 , 0.086306 
+    velocity:  abs. difference, ratio: 267.852600 , 0.030157 
+    aggregate: abs. difference, ratio: 304.696014 , 0.032732 
+Test sample 67
+    pressure:  abs. difference, ratio: 30.120541 , 0.133721 
+    velocity:  abs. difference, ratio: 155.578888 , 0.018762 
+    aggregate: abs. difference, ratio: 185.699417 , 0.021802 
+Test sample 68
+    pressure:  abs. difference, ratio: 187.826035 , 0.475481 
+    velocity:  abs. difference, ratio: 600.644165 , 0.067964 
+    aggregate: abs. difference, ratio: 788.470215 , 0.085399 
+Test sample 69
+    pressure:  abs. difference, ratio: 27.402597 , 0.193324 
+    velocity:  abs. difference, ratio: 173.332703 , 0.020796 
+    aggregate: abs. difference, ratio: 200.735291 , 0.023681 
+Test sample 70
+    pressure:  abs. difference, ratio: 247.831100 , 0.374330 
+    velocity:  abs. difference, ratio: 785.909973 , 0.086055 
+    aggregate: abs. difference, ratio: 1033.741089 , 0.105541 
+Test sample 71
+    pressure:  abs. difference, ratio: 14.382388 , 0.078717 
+    velocity:  abs. difference, ratio: 129.667053 , 0.015592 
+    aggregate: abs. difference, ratio: 144.049438 , 0.016949 
+Test sample 72
+    pressure:  abs. difference, ratio: 130.696442 , 0.434890 
+    velocity:  abs. difference, ratio: 510.691071 , 0.056279 
+    aggregate: abs. difference, ratio: 641.387451 , 0.068417 
+Test sample 73
+    pressure:  abs. difference, ratio: 54.016380 , 0.109496 
+    velocity:  abs. difference, ratio: 283.626160 , 0.031607 
+    aggregate: abs. difference, ratio: 337.642517 , 0.035666 
+Test sample 74
+    pressure:  abs. difference, ratio: 82.617065 , 0.155762 
+    velocity:  abs. difference, ratio: 504.255646 , 0.054878 
+    aggregate: abs. difference, ratio: 586.872681 , 0.060383 
+Test sample 75
+    pressure:  abs. difference, ratio: 52.080662 , 0.105933 
+    velocity:  abs. difference, ratio: 297.831024 , 0.033282 
+    aggregate: abs. difference, ratio: 349.911682 , 0.037066 
+Test sample 76
+    pressure:  abs. difference, ratio: 42.982594 , 0.131017 
+    velocity:  abs. difference, ratio: 241.357666 , 0.028583 
+    aggregate: abs. difference, ratio: 284.340271 , 0.032414 
+Test sample 77
+    pressure:  abs. difference, ratio: 124.658096 , 0.311109 
+    velocity:  abs. difference, ratio: 1345.768188 , 0.146573 
+    aggregate: abs. difference, ratio: 1470.426270 , 0.153453 
+Test sample 78
+    pressure:  abs. difference, ratio: 55.601585 , 0.683583 
+    velocity:  abs. difference, ratio: 277.238434 , 0.034292 
+    aggregate: abs. difference, ratio: 332.840027 , 0.040760 
+Test sample 79
+    pressure:  abs. difference, ratio: 25.630388 , 0.158020 
+    velocity:  abs. difference, ratio: 110.144974 , 0.013281 
+    aggregate: abs. difference, ratio: 135.775360 , 0.016058 
+Test sample 80
+    pressure:  abs. difference, ratio: 11.964188 , 0.084040 
+    velocity:  abs. difference, ratio: 108.425400 , 0.013179 
+    aggregate: abs. difference, ratio: 120.389587 , 0.014384 
+Test sample 81
+    pressure:  abs. difference, ratio: 107.449211 , 0.171119 
+    velocity:  abs. difference, ratio: 373.236176 , 0.041095 
+    aggregate: abs. difference, ratio: 480.685364 , 0.049504 
+Test sample 82
+    pressure:  abs. difference, ratio: 15.923280 , 0.178332 
+    velocity:  abs. difference, ratio: 113.837036 , 0.014062 
+    aggregate: abs. difference, ratio: 129.760315 , 0.015854 
+Test sample 83
+    pressure:  abs. difference, ratio: 44.838734 , 0.118810 
+    velocity:  abs. difference, ratio: 252.227112 , 0.028085 
+    aggregate: abs. difference, ratio: 297.065857 , 0.031744 
+Test sample 84
+    pressure:  abs. difference, ratio: 117.952019 , 0.338455 
+    velocity:  abs. difference, ratio: 419.253357 , 0.047526 
+    aggregate: abs. difference, ratio: 537.205383 , 0.058582 
+Test sample 85
+    pressure:  abs. difference, ratio: 16.733589 , 0.083153 
+    velocity:  abs. difference, ratio: 128.375732 , 0.015243 
+    aggregate: abs. difference, ratio: 145.109314 , 0.016828 
+Test sample 86
+    pressure:  abs. difference, ratio: 111.983192 , 0.235483 
+    velocity:  abs. difference, ratio: 456.982788 , 0.051201 
+    aggregate: abs. difference, ratio: 568.965942 , 0.060523 
+Test sample 87
+    pressure:  abs. difference, ratio: 52.857182 , 0.880513 
+    velocity:  abs. difference, ratio: 204.164490 , 0.024763 
+    aggregate: abs. difference, ratio: 257.021667 , 0.030948 
+Test sample 88
+    pressure:  abs. difference, ratio: 19.269424 , 0.095709 
+    velocity:  abs. difference, ratio: 143.816986 , 0.017090 
+    aggregate: abs. difference, ratio: 163.086411 , 0.018927 
+Test sample 89
+    pressure:  abs. difference, ratio: 132.225357 , 0.277490 
+    velocity:  abs. difference, ratio: 517.521362 , 0.056915 
+    aggregate: abs. difference, ratio: 649.746704 , 0.067898 
+Test sample 90
+    pressure:  abs. difference, ratio: 551.085449 , 0.597106 
+    velocity:  abs. difference, ratio: 1621.692993 , 0.175793 
+    aggregate: abs. difference, ratio: 2172.778320 , 0.214110 
+Test sample 91
+    pressure:  abs. difference, ratio: 29.020918 , 0.123812 
+    velocity:  abs. difference, ratio: 236.110382 , 0.027018 
+    aggregate: abs. difference, ratio: 265.131317 , 0.029546 
+Test sample 92
+    pressure:  abs. difference, ratio: 109.965866 , 0.137558 
+    velocity:  abs. difference, ratio: 552.199707 , 0.059582 
+    aggregate: abs. difference, ratio: 662.165649 , 0.065774 
+Test sample 93
+    pressure:  abs. difference, ratio: 20.469156 , 0.060802 
+    velocity:  abs. difference, ratio: 142.106705 , 0.016510 
+    aggregate: abs. difference, ratio: 162.575851 , 0.018177 
+Test sample 94
+    pressure:  abs. difference, ratio: 164.864594 , 0.293686 
+    velocity:  abs. difference, ratio: 655.361206 , 0.071865 
+    aggregate: abs. difference, ratio: 820.225891 , 0.084728 
+Test sample 95
+    pressure:  abs. difference, ratio: 130.744202 , 0.263954 
+    velocity:  abs. difference, ratio: 486.186096 , 0.053445 
+    aggregate: abs. difference, ratio: 616.930298 , 0.064315 
+Test sample 96
+    pressure:  abs. difference, ratio: 15.987107 , 0.132728 
+    velocity:  abs. difference, ratio: 147.443680 , 0.017785 
+    aggregate: abs. difference, ratio: 163.430786 , 0.019431 
+Test sample 97
+    pressure:  abs. difference, ratio: 23.762472 , 0.082492 
+    velocity:  abs. difference, ratio: 177.585251 , 0.020120 
+    aggregate: abs. difference, ratio: 201.347717 , 0.022091 
+Test sample 98
+    pressure:  abs. difference, ratio: 523.370239 , 0.567660 
+    velocity:  abs. difference, ratio: 1591.407227 , 0.172378 
+    aggregate: abs. difference, ratio: 2114.777344 , 0.208269 
+Test sample 99
+    pressure:  abs. difference, ratio: 31.245724 , 0.388793 
+    velocity:  abs. difference, ratio: 193.527161 , 0.023835 
+    aggregate: abs. difference, ratio: 224.772888 , 0.027411 
+
+
+Loss percentage (p, v, combined): 25.114202 %    4.498303 %    5.202822 % 
+L1 error: 0.010011
+Denormalized error: 0.017697
+
+
