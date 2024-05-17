@@ -12,7 +12,7 @@ sudo pip install torch numpy
 sudo apt-get install openfoam11 gmsh
 ```
 
-For Pytroch-Geometric installation follow 
+For Pytroch-Geometric installation follow pip cmd generated using 
 ```
     import torch
 
