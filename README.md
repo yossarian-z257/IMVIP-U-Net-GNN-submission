@@ -11,6 +11,31 @@ To install these under linux run, use e.g.:
 sudo pip install torch numpy
 sudo apt-get install openfoam11 gmsh
 ```
+
+For Pytroch-Geometric installation follow 
+```
+    import torch
+
+    def format_pytorch_version(version):
+    return version.split('+')[0]
+
+    TORCH_version = torch.__version__
+    TORCH = format_pytorch_version(TORCH_version)
+
+    def format_cuda_version(version):
+    return 'cu' + version.replace('.', '')
+
+    CUDA_version = torch.version.cuda
+    CUDA = format_cuda_version(CUDA_version)
+
+    !pip install torch-scatter     -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+    !pip install torch-sparse      -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+    !pip install torch-cluster     -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+    !pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+    !pip install torch-geometric 
+
+```
+
 (Details can be found on the installation pages of [PyTorch](https://pytorch.org/get-started/locally/) and 
 [OpenFOAM](https://openfoam.org/download/5-0-ubuntu/).)
 
